@@ -2,6 +2,8 @@
 
 - [Deep Learning Platform](#DeepLearningPlatform)
 - [Deep Learning Components](#DeepLearningComponents)
+- [Deep Learning Gernal Algorithm Codes](#DeepLearningGeneralAlgorithmCodes)
+- [NLP Models](#NLPModels)
 
 
 ## <a name="DeepLearningPlatform">Deep Learning Platform</a>
@@ -11,7 +13,11 @@
 ## <a name="DeepLearningComponents">Deep Learning Components</a>
 - [tensor2tensor](https://github.com/winnerineast/tensor2tensor):T2T is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
 
+## <a name="DeepLearningGeneralAlgorithmCodes">Deep Learning Gernal Algorithm Codes</a>
+- [Google Research](https://github.com/winnerineast/google-research):This repository contains code released by Google AI Research.
 
+## <a name="NLPModels">NLP Models</a>
+- [Neural Relation Extraction with Tensorflow](https://github.com/winnerineast/TensorFlow-NRE):Neural relation extraction aims to extract relations from plain text with neural models, which has been the state-of-the-art methods for relation extraction. In this project, we provide our implementations of a word-level and sentence-level combined Bidirectional GRU network (BGRU+2ATT).
 
 # work daily
 #### 2019-11-13: started to index my source codes. And first of all, I will re-structure the webpage.
