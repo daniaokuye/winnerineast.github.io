@@ -1,14 +1,32 @@
 # Papers and Codes List
-
+- [Awesome Series](#AwesomeSeries)
+- [Basic Software Engineering](#BasicSoftwareEngineering)
+- [Visualization Tools](#VisualizationTools)
+- [Mobile OS Programming](#MobileOSProgramming)
 - [Deep Learning Platform](#DeepLearningPlatform)
 - [Deep Learning Components](#DeepLearningComponents)
 - [Deep Learning Gernal Algorithm Codes](#DeepLearningGeneralAlgorithmCodes)
+- [Deep Learning Books](#DeepLearningBooks)
 - [NLP Models](#NLPModels)
+- [Computer Vison Algorithm](#ComputerVisionAlgorithm)
 
+
+## <a name="AwesomeSeries">Awesome Series</a>
+- [Microservices](https://github.com/winnerineast/awesome-microservices):A curated list of Microservice Architecture related principles and technologies. 
+
+## <a name="BasicSoftwareEngineering">Basic Software Engineering</a>
+- [CMake](https://github.com/winnerineast/CMake):CMake is a cross-platform, open-source build system generator.
+
+## <a name="VisualizationTools">Visualization Tools</a>
+- [manim](https://github.com/winnerineast/manim):Manim is an animation engine for explanatory math videos. It's used to create precise animations programmatically, as seen in the videos at 3Blue1Brown.
+
+## <a name="MobileOSProgramming">Mobile OS Programming</a>
+- [flutter](https://github.com/winnerineast/flutter):Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
 
 ## <a name="DeepLearningPlatform">Deep Learning Platform</a>
 - [PaddlePaddle](https://github.com/winnerineast/Paddle):PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform, which is originally developed by Baidu scientists and engineers for the purpose of applying deep learning to many products at Baidu.
 - [plaidml](https://github.com/winnerineast/plaidml):PlaidML is an advanced and portable tensor compiler for enabling deep learning on laptops, embedded devices, or other devices where the available computing hardware is not well supported or the available software stack contains unpalatable license restrictions.
+- [turicreate](https://github.com/winnerineast/turicreate):Turi Create simplifies the MacOS/iOS development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
 
 ## <a name="DeepLearningComponents">Deep Learning Components</a>
 - [tensor2tensor](https://github.com/winnerineast/tensor2tensor):T2T is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
@@ -16,8 +34,15 @@
 ## <a name="DeepLearningGeneralAlgorithmCodes">Deep Learning Gernal Algorithm Codes</a>
 - [Google Research](https://github.com/winnerineast/google-research):This repository contains code released by Google AI Research.
 
+## <a name="DeepLearningBooks">Deep Learning Books</a>
+- [Deep Learning Books in Chinese](https://github.com/winnerineast/deeplearningbook-chinese): the Chinese version of Ian Goodfellow and Yoshua Bengio and Aaron Courville's book.
+
 ## <a name="NLPModels">NLP Models</a>
+- [GPT-2](https://github.com/winnerineast/gpt-2):best NLP model we have.
 - [Neural Relation Extraction with Tensorflow](https://github.com/winnerineast/TensorFlow-NRE):Neural relation extraction aims to extract relations from plain text with neural models, which has been the state-of-the-art methods for relation extraction. In this project, we provide our implementations of a word-level and sentence-level combined Bidirectional GRU network (BGRU+2ATT).
+
+## <a name="ComputerVisionAlgorithm">Computer Vison Algorithm</a>
+- [AlphaPose](https://github.com/winnerineast/AlphaPose):Alpha Pose is an accurate multi-person pose estimator, which is the first real-time open-source system that achieves 70+ mAP (72.3 mAP) on COCO dataset and 80+ mAP (82.1 mAP) on MPII dataset.** To match poses that correspond to the same person across frames, we also provide an efficient online pose tracker called Pose Flow. It is the first open-source online pose tracker that achieves both 60+ mAP (66.5 mAP) and 50+ MOTA (58.3 MOTA) on PoseTrack Challenge dataset.
 
 # work daily
 #### 2019-11-13: started to index my source codes. And first of all, I will re-structure the webpage.
