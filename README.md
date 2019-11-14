@@ -9,14 +9,14 @@
 - [plaidml](https://github.com/winnerineast/plaidml):PlaidML is an advanced and portable tensor compiler for enabling deep learning on laptops, embedded devices, or other devices where the available computing hardware is not well supported or the available software stack contains unpalatable license restrictions.
 
 ## <a name="DeepLearningComponents">Deep Learning Components</a>
+- [tensor2tensor](https://github.com/winnerineast/tensor2tensor):T2T is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
 
 
 
 # work daily
 #### 2019-11-13: started to index my source codes. And first of all, I will re-structure the webpage.
-- [tensor2tensor](https://github.com/winnerineast/tensor2tensor):T2T is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
-
-
+#
+#
 # Depreciated ===========================================================================================
 # Winnerineast的代码垃圾堆代码索引
 这是用来解释我的整个github代码结构的网页，不会中文的朋友，请用谷歌翻译吧。
