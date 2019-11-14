@@ -1,5 +1,20 @@
-2019-11-13: started to index my source codes. And first of all, I will re-structure the webpage.
+# Papers and Codes List
 
+- [Deep Learning Platform](#DeepLearningPlatform)
+- [Deep Learning Components](#DeepLearningComponents)
+
+
+## <a name="DeepLearningPlatform">Deep Learning Platform</a>
+- [PaddlePaddle](https://github.com/winnerineast/Paddle):PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform, which is originally developed by Baidu scientists and engineers for the purpose of applying deep learning to many products at Baidu.
+- [plaidml](https://github.com/winnerineast/plaidml):PlaidML is an advanced and portable tensor compiler for enabling deep learning on laptops, embedded devices, or other devices where the available computing hardware is not well supported or the available software stack contains unpalatable license restrictions.
+
+## <a name="DeepLearningComponents">Deep Learning Components</a>
+
+
+
+# work daily
+#### 2019-11-13: started to index my source codes. And first of all, I will re-structure the webpage.
+- [tensor2tensor](https://github.com/winnerineast/tensor2tensor):T2T is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
 
 
 # Depreciated ===========================================================================================
