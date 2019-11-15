@@ -23,6 +23,7 @@
 - [oh-my-zsh](https://github.com/winnerineast/oh-my-zsh):Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.
 
 ## <a name="VisualizationTools">Visualization Tools</a>
+- [captum](https://github.com/winnerineast/captum):Captum is a model interpretability and understanding library for PyTorch. Captum means comprehension in latin and contains general purpose implementations of integrated gradients, saliency maps, smoothgrad, vargrad and others for PyTorch models. It has quick integration for models built with domain-specific libraries such as torchvision, torchtext, and others.
 - [FactorGraph](https://github.com/winnerineast/FactorGraphs):Animating factor graphs using manim, networkx and manimnx.
 - [manim](https://github.com/winnerineast/manim):Manim is an animation engine for explanatory math videos. It's used to create precise animations programmatically, as seen in the videos at 3Blue1Brown.
 - [manimnx](https://github.com/winnerineast/manimnx):Interface between networkx and manim.
@@ -57,12 +58,14 @@
 
 ## <a name="ComputerVisionAlgorithm">Computer Vison Algorithm</a>
 - [AlphaPose](https://github.com/winnerineast/AlphaPose):Alpha Pose is an accurate multi-person pose estimator, which is the first real-time open-source system that achieves 70+ mAP (72.3 mAP) on COCO dataset and 80+ mAP (82.1 mAP) on MPII dataset.** To match poses that correspond to the same person across frames, we also provide an efficient online pose tracker called Pose Flow. It is the first open-source online pose tracker that achieves both 60+ mAP (66.5 mAP) and 50+ MOTA (58.3 MOTA) on PoseTrack Challenge dataset.
+- [detectron2](https://github.com/winnerineast/detectron2):Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms. It is a ground-up rewrite of the previous version, Detectron, and it originates from maskrcnn-benchmark.
 - [Image Duplication Detection](https://github.com/winnerineast/imagededup):imagededup is a python package that simplifies the task of finding exact and near duplicates in an image collection.
 - [OpenPose](https://github.com/winnerineast/openpose):OpenPose represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.
 - [TorchCV](https://github.com/winnerineast/torchcv): A pyTorch-based framework for deep learning algorithms in computer vision.
 
 ## <a name="ComputerVisionFaceRecognition">Computer Vision Face Recognition</a>
 - [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition with pyTorch](https://github.com/winnerineast/cdp):Implementation of "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition" (CDP).
+- [Ultra Light Fast Generic Face Detector with 1MB size](https://github.com/winnerineast/Ultra-Light-Fast-Generic-Face-Detector-1MB):no doubt it's a small and good model for face detection.
 
 ## <a name="Needtofurtherprocesstheserepos">Need to further process these repos</a>
 - [paper collections and codes](https://github.com/winnerineast/handong1587.github.io)
