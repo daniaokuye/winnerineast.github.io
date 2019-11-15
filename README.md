@@ -8,7 +8,11 @@
 - [Deep Learning Gernal Algorithm Codes](#DeepLearningGeneralAlgorithmCodes)
 - [Deep Learning Books](#DeepLearningBooks)
 - [NLP Models](#NLPModels)
+- [NLP Data](#NLPData)
+- [Knowledge Graph](#KnowledgeGraph)
 - [Computer Vison Algorithm](#ComputerVisionAlgorithm)
+- [Computer Vision Face Recognition](#ComputerVisionFaceRecognition)
+- [Need to further process these repos](#Needtofurtherprocesstheserepos)
 
 
 ## <a name="AwesomeSeries">Awesome Series</a>
@@ -16,9 +20,13 @@
 
 ## <a name="BasicSoftwareEngineering">Basic Software Engineering</a>
 - [CMake](https://github.com/winnerineast/CMake):CMake is a cross-platform, open-source build system generator.
+- [oh-my-zsh](https://github.com/winnerineast/oh-my-zsh):Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.
 
 ## <a name="VisualizationTools">Visualization Tools</a>
+- [FactorGraph](https://github.com/winnerineast/FactorGraphs):Animating factor graphs using manim, networkx and manimnx.
 - [manim](https://github.com/winnerineast/manim):Manim is an animation engine for explanatory math videos. It's used to create precise animations programmatically, as seen in the videos at 3Blue1Brown.
+- [manimnx](https://github.com/winnerineast/manimnx):Interface between networkx and manim.
+- [SandDance](https://github.com/winnerineast/SandDance): Visually explore, understand, and present your data.
 
 ## <a name="MobileOSProgramming">Mobile OS Programming</a>
 - [flutter](https://github.com/winnerineast/flutter):Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
@@ -41,8 +49,23 @@
 - [GPT-2](https://github.com/winnerineast/gpt-2):best NLP model we have.
 - [Neural Relation Extraction with Tensorflow](https://github.com/winnerineast/TensorFlow-NRE):Neural relation extraction aims to extract relations from plain text with neural models, which has been the state-of-the-art methods for relation extraction. In this project, we provide our implementations of a word-level and sentence-level combined Bidirectional GRU network (BGRU+2ATT).
 
+## <a name="NLPData">NLP Data</a>
+- [Chinese Poetry](https://github.com/winnerineast/chinese-poetry): a collection of Chinese poetry and long-short sentences.
+
+## <a name="KnowledgeGraph">Knowledge Graph</a>
+- [Knowledge Graph Data](https://github.com/winnerineast/KnowledgeGraphData): So far the biggest chinese knowledge graphs data.
+
 ## <a name="ComputerVisionAlgorithm">Computer Vison Algorithm</a>
 - [AlphaPose](https://github.com/winnerineast/AlphaPose):Alpha Pose is an accurate multi-person pose estimator, which is the first real-time open-source system that achieves 70+ mAP (72.3 mAP) on COCO dataset and 80+ mAP (82.1 mAP) on MPII dataset.** To match poses that correspond to the same person across frames, we also provide an efficient online pose tracker called Pose Flow. It is the first open-source online pose tracker that achieves both 60+ mAP (66.5 mAP) and 50+ MOTA (58.3 MOTA) on PoseTrack Challenge dataset.
+- [Image Duplication Detection](https://github.com/winnerineast/imagededup):imagededup is a python package that simplifies the task of finding exact and near duplicates in an image collection.
+- [OpenPose](https://github.com/winnerineast/openpose):OpenPose represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.
+- [TorchCV](https://github.com/winnerineast/torchcv): A pyTorch-based framework for deep learning algorithms in computer vision.
+
+## <a name="ComputerVisionFaceRecognition">Computer Vision Face Recognition</a>
+- [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition with pyTorch](https://github.com/winnerineast/cdp):Implementation of "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition" (CDP).
+
+## <a name="Needtofurtherprocesstheserepos">Need to further process these repos</a>
+- [paper collections and codes](https://github.com/winnerineast/handong1587.github.io)
 
 # work daily
 #### 2019-11-13: started to index my source codes. And first of all, I will re-structure the webpage.
