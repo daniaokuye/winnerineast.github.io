@@ -1,6 +1,7 @@
 # Papers and Codes List
 - [Awesome Series](#AwesomeSeries)
 - [Basic Software Engineering](#BasicSoftwareEngineering)
+- [IoT](#IoT)
 - [Visualization Tools](#VisualizationTools)
 - [Mobile OS Programming](#MobileOSProgramming)
 - [Deep Learning Platform](#DeepLearningPlatform)
@@ -10,8 +11,10 @@
 - [NLP Models](#NLPModels)
 - [NLP Data](#NLPData)
 - [Knowledge Graph](#KnowledgeGraph)
+- [Computer Vision Processing](#ComputerVisionProcessing)
 - [Computer Vison Algorithm](#ComputerVisionAlgorithm)
 - [Computer Vision Face Recognition](#ComputerVisionFaceRecognition)
+- [GAN](#GAN)
 - [Need to further process these repos](#Needtofurtherprocesstheserepos)
 
 
@@ -19,8 +22,14 @@
 - [Microservices](https://github.com/winnerineast/awesome-microservices):A curated list of Microservice Architecture related principles and technologies. 
 
 ## <a name="BasicSoftwareEngineering">Basic Software Engineering</a>
+- [bazel](https://github.com/winnerineast/bazel):a fast, scalable, multi-language and extensible build system.
 - [CMake](https://github.com/winnerineast/CMake):CMake is a cross-platform, open-source build system generator.
+- [Janus Gateway](https://github.com/winnerineast/janus-gateway): A WebRTC server.
+- [nginx](https://github.com/winnerineast/nginx):A famous web server.
 - [oh-my-zsh](https://github.com/winnerineast/oh-my-zsh):Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.
+
+## <a name="IoT">IoT</a>
+- [gear lib](https://github.com/winnerineast/gear-lib): a collection of basic libraries for IoT.
 
 ## <a name="VisualizationTools">Visualization Tools</a>
 - [captum](https://github.com/winnerineast/captum):Captum is a model interpretability and understanding library for PyTorch. Captum means comprehension in latin and contains general purpose implementations of integrated gradients, saliency maps, smoothgrad, vargrad and others for PyTorch models. It has quick integration for models built with domain-specific libraries such as torchvision, torchtext, and others.
@@ -36,6 +45,7 @@
 - [PaddlePaddle](https://github.com/winnerineast/Paddle):PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform, which is originally developed by Baidu scientists and engineers for the purpose of applying deep learning to many products at Baidu.
 - [plaidml](https://github.com/winnerineast/plaidml):PlaidML is an advanced and portable tensor compiler for enabling deep learning on laptops, embedded devices, or other devices where the available computing hardware is not well supported or the available software stack contains unpalatable license restrictions.
 - [turicreate](https://github.com/winnerineast/turicreate):Turi Create simplifies the MacOS/iOS development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
+- [tensorflow](https://github.com/winnerineast/tensorflow): a famous deep learning platform from google.
 
 ## <a name="DeepLearningComponents">Deep Learning Components</a>
 - [tensor2tensor](https://github.com/winnerineast/tensor2tensor):T2T is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
@@ -56,16 +66,28 @@
 ## <a name="KnowledgeGraph">Knowledge Graph</a>
 - [Knowledge Graph Data](https://github.com/winnerineast/KnowledgeGraphData): So far the biggest chinese knowledge graphs data.
 
+## <a name="ComputerVisionProcessing">Computer Vision Processing</a>
+- [FFmpeg](https://github.com/winnerineast/FFmpeg):FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+- [machinery](https://github.com/winnerineast/machinery):This is a framework used by Kerberos.io.
+- [RTSP Server](https://github.com/winnerineast/RtspServer): A RTSP server and pusher based on C++11.
+- [vlc](https://github.com/winnerineast/vlc):VLC is a popular libre and open source media player and multimedia engine, used by a large number of individuals, professionals, companies and institutions.
+- [ZLMediaKit](https://github.com/winnerineast/ZLMediaKit): A lightweight ,high performance and stable stream server and client framework based on C++11.
+
 ## <a name="ComputerVisionAlgorithm">Computer Vison Algorithm</a>
 - [AlphaPose](https://github.com/winnerineast/AlphaPose):Alpha Pose is an accurate multi-person pose estimator, which is the first real-time open-source system that achieves 70+ mAP (72.3 mAP) on COCO dataset and 80+ mAP (82.1 mAP) on MPII dataset.** To match poses that correspond to the same person across frames, we also provide an efficient online pose tracker called Pose Flow. It is the first open-source online pose tracker that achieves both 60+ mAP (66.5 mAP) and 50+ MOTA (58.3 MOTA) on PoseTrack Challenge dataset.
 - [detectron2](https://github.com/winnerineast/detectron2):Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms. It is a ground-up rewrite of the previous version, Detectron, and it originates from maskrcnn-benchmark.
 - [Image Duplication Detection](https://github.com/winnerineast/imagededup):imagededup is a python package that simplifies the task of finding exact and near duplicates in an image collection.
 - [OpenPose](https://github.com/winnerineast/openpose):OpenPose represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.
+- [OpenPose Training Code](https://github.com/winnerineast/openpose_train): OpenPose training codes.
 - [TorchCV](https://github.com/winnerineast/torchcv): A pyTorch-based framework for deep learning algorithms in computer vision.
+- [Track R-CNN](https://github.com/winnerineast/TrackR-CNN):Code for the TrackR-CNN baseline for the Multi Object Tracking and Segmentation (MOTS) task.
 
 ## <a name="ComputerVisionFaceRecognition">Computer Vision Face Recognition</a>
 - [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition with pyTorch](https://github.com/winnerineast/cdp):Implementation of "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition" (CDP).
 - [Ultra Light Fast Generic Face Detector with 1MB size](https://github.com/winnerineast/Ultra-Light-Fast-Generic-Face-Detector-1MB):no doubt it's a small and good model for face detection.
+
+## <a name="GAN">GAN</a>
+- [Image Generator](https://github.com/winnerineast/image_generator)
 
 ## <a name="Needtofurtherprocesstheserepos">Need to further process these repos</a>
 - [paper collections and codes](https://github.com/winnerineast/handong1587.github.io)
