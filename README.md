@@ -30,6 +30,7 @@
 - [bazel](https://github.com/winnerineast/bazel):a fast, scalable, multi-language and extensible build system.
 - [cicada](https://github.com/winnerineast/cicada): Fast lightweight HTTP service framework.
 - [CMake](https://github.com/winnerineast/CMake):CMake is a cross-platform, open-source build system generator.
+- [gRPC](https://github.com/winnerineast/grpc):gRPC is a modern, open source, high-performance remote procedure call (RPC) framework that can run anywhere. gRPC enables client and server applications to communicate transparently, and simplifies the building of connected systems.
 - [guava](https://github.com/winnerineast/guava):Google Core Libraries for Java.
 - [HP-Socket](https://github.com/winnerineast/HP-Socket): High Performance Network Framework in C++.
 - [Janus Gateway](https://github.com/winnerineast/janus-gateway): A WebRTC server.
@@ -63,6 +64,7 @@
 - [kepler.gl](https://github.com/winnerineast/kepler.gl):Kepler.gl is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets. Built on top of Mapbox GL and deck.gl, kepler.gl can render millions of points representing thousands of trips and perform spatial aggregations on the fly.
 - [manim](https://github.com/winnerineast/manim):Manim is an animation engine for explanatory math videos. It's used to create precise animations programmatically, as seen in the videos at 3Blue1Brown.
 - [manimnx](https://github.com/winnerineast/manimnx):Interface between networkx and manim.
+- [Netron](https://github.com/winnerineast/Netron): Netron is a viewer for neural network, deep learning and machine learning models.
 - [ngx-admin](https://github.com/winnerineast/ngx-admin): Admin template based on Angular 8+ and Nebular.
 - [SandDance](https://github.com/winnerineast/SandDance): Visually explore, understand, and present your data.
 - [tabler](https://github.com/winnerineast/tabler):Premium and Open Source dashboard template with responsive and high-quality UI.
@@ -72,6 +74,7 @@
 - [source graph](https://github.com/winnerineast/sourcegraph):Code search and navigation tools.
 
 ## <a name="MachineLearning">Machine Learning</a>
+- [autokeras](https://github.com/winnerineast/autokeras): Auto-Keras is an open source software library for automated machine learning (AutoML). 
 - [Machine Learning in Numpy](https://github.com/winnerineast/numpy-ml):Ever wish you had an inefficient but somewhat legible collection of machine learning algorithms implemented exclusively in numpy? No?
 
 ## <a name="MobileOSProgramming">Mobile OS Programming</a>
@@ -79,22 +82,31 @@
 
 ## <a name="DeepLearningPlatform">Deep Learning Platform</a>
 - [angel](https://github.com/winnerineast/angel):This project Angel is a high-performance distributed machine learning platform based on the philosophy of Parameter Server. It is tuned for performance with big data from Tencent and has a wide range of applicability and stability, demonstrating increasing advantage in handling higher dimension model. Angel is jointly developed by Tencent and Peking University, taking account of both high availability in industry and innovation in academia. Angel is developed with Java and Scala. It supports running on Yarn and Kubernetes. With the PS Service abstraction, it provides two modules, namely Spark on Angel and Pytorch on Angel separately, which enable integrate the power of Spark/PyTorch and Parameter Server for distributed training. Graph Computing and deep learning frameworks support is under development and will be released in the future.
+- [keras](https://github.com/winnerineast/keras):Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
+- [keras-tuner](https://github.com/winnerineast/keras-tuner):An hyperparameter tuner for Keras, specifically for tf.keras with TensorFlow 2.0.
+- [ludwig](https://github.com/winnerineast/ludwig):Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
 - [OpenVINO Toolkit Open Model Zoo](https://github.com/winnerineast/open_model_zoo):This repository includes optimized deep learning models and a set of demos to expedite development of high-performance deep learning inference applications. Use these free pre-trained models instead of training your own models to speed-up the development and production deployment process.
 - [OpenVINO Training Extensions](https://github.com/winnerineast/openvino_training_extensions): OpenVINO Training Extensions provide a convenient environment to train Deep Learning models and convert them using OpenVINO™ Toolkit for optimized inference.
 - [PaddlePaddle](https://github.com/winnerineast/Paddle):PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform, which is originally developed by Baidu scientists and engineers for the purpose of applying deep learning to many products at Baidu.
 - [plaidml](https://github.com/winnerineast/plaidml):PlaidML is an advanced and portable tensor compiler for enabling deep learning on laptops, embedded devices, or other devices where the available computing hardware is not well supported or the available software stack contains unpalatable license restrictions.
 - [pytorch](https://github.com/winnerineast/pytorch): PyTorch is a Python package that provides two high-level features: Tensor computation (like NumPy) with strong GPU acceleration;Deep neural networks built on a tape-based autograd system.
+- [tpu](https://github.com/winnerineast/tpu):This repository is a collection of reference models and tools used with Cloud TPUs.
 - [turicreate](https://github.com/winnerineast/turicreate):Turi Create simplifies the MacOS/iOS development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
 - [tensorflow](https://github.com/winnerineast/tensorflow): a famous deep learning platform from google.
 - [tensorflow-examples](https://github.com/winnerineast/examples): Tensorflow examples from official website.
 - [tfpyth](https://github.com/winnerineast/tfpyth): Putting Tensorflow back in PyTorch, back in Tensorflow.
 
 ## <a name="DeepLearningComponents">Deep Learning Components</a>
+- [BytePS](https://github.com/winnerineast/byteps):BytePS is a high performance and general distributed training framework. It supports TensorFlow, Keras, PyTorch, and MXNet, and can run on either TCP or RDMA network.
 - [mediapipe](https://github.com/winnerineast/mediapipe):MediaPipe is a framework for building multimodal (eg. video, audio, any time series data) applied ML pipelines. With MediaPipe, a perception pipeline can be built as a graph of modular components, including, for instance, inference models (e.g., TensorFlow, TFLite) and media processing functions.
 - [tensor2tensor](https://github.com/winnerineast/tensor2tensor):T2T is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
 
 ## <a name="DeepLearningGeneralAlgorithmCodes">Deep Learning Gernal Algorithm Codes</a>
+- [CapsNet with keras](https://github.com/winnerineast/CapsNet-Keras)：A Keras implementation of CapsNet in the paper: Sara Sabour, Nicholas Frosst, Geoffrey E Hinton. Dynamic Routing Between Capsules. NIPS 2017.
 - [Google Research](https://github.com/winnerineast/google-research):This repository contains code released by Google AI Research.
+- [morph net](https://github.com/winnerineast/morph-net):MorphNet is a method for learning deep network structure during training. The key principle is continuous relaxation of the network-structure learning problem. Specifically, activation sparsity is induced by adding regularizers that target the consumption of specific resources such as FLOPs or model size. When the regularizer loss is added to the training loss and their sum is minimized via stochastic gradient descent or a similar optimizer, the learning problem becomes a constrained optimization of the structure of the network, under the constraint represented by the regularizer. The method was first introduced in our CVPR 2018, paper "MorphNet: Fast & Simple Resource-Constrained Learning of Deep Network Structure". A overview of the approach as well as new device-specific latency regularizers were prestend in GTC 2019.
+- [pysot](https://github.com/winnerineast/pysot):PySOT is a software system designed by SenseTime Video Intelligence Research team. It implements state-of-the-art single object tracking algorithms, including SiamRPN and SiamMask. It is written in Python and powered by the PyTorch deep learning framework. This project also contains a Python port of toolkit for evaluating trackers.
+- [pythia](https://github.com/winnerineast/pythia):Pythia is a modular framework for vision and language multimodal research. Built on top of PyTorch.
 
 ## <a name="DeepLearningBooks">Deep Learning Books</a>
 - [Deep Learning Books in Chinese](https://github.com/winnerineast/deeplearningbook-chinese): the Chinese version of Ian Goodfellow and Yoshua Bengio and Aaron Courville's book.
@@ -171,6 +183,7 @@
 - [baselines](https://github.com/winnerineast/baselines):OpenAI Baselines is a set of high-quality implementations of reinforcement learning algorithms.
 - [bsuite](https://github.com/winnerineast/bsuite): a collection of Reinforcement Learning.
 - [ec](https://github.com/winnerineast/ec):DreamCoder is a wake-sleep algorithm to program.
+- [keras-rl](https://github.com/winnerineast/keras-rl):keras-rl implements some state-of-the art deep reinforcement learning algorithms in Python and seamlessly integrates with the deep learning library Keras.
 - [open spiel](https://github.com/winnerineast/open_spiel):OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games. 
 - [spriteworld](https://github.com/winnerineast/spriteworld):Spriteworld: A Flexible, Configurable Reinforcement Learning Environment.
 
