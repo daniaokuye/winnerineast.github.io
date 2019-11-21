@@ -49,6 +49,7 @@
 - [gear lib](https://github.com/winnerineast/gear-lib): a collection of basic libraries for IoT.
 - [Nodered](https://github.com/winnerineast/node-red): A visual tool for wiring the internet of things.
 - [rCore](https://github.com/winnerineast/rCore): a IoT OS used for education.
+- [rt-thread](https://github.com/winnerineast/rt-thread):RT-Thread is an open source IoT operating system from China, which has strong scalability: from a tiny kernel running on a tiny core, for example ARM Cortex-M0, or Cortex-M3/4/7, to a rich feature system running on MIPS32, ARM Cortex-A8, ARM Cortex-A9 DualCore etc.
 - [TDengine](https://github.com/winnerineast/TDengine):TDengine is an open-sourced big data platform under GNU AGPL v3.0, designed and optimized for the Internet of Things (IoT), Connected Cars, Industrial IoT, and IT Infrastructure and Application Monitoring. 
 - [Tengine](https://github.com/winnerineast/Tengine): Tengine, developed by OPEN AI LAB, is a lite, high-performance, and modular inference engine for embedded device.
 - [TencentOS-Tiny](https://github.com/winnerineast/TencentOS-tiny): Tecent IoT OS.
@@ -161,6 +162,7 @@
 - [TorchCV](https://github.com/winnerineast/torchcv): A pyTorch-based framework for deep learning algorithms in computer vision.
 - [Track R-CNN](https://github.com/winnerineast/TrackR-CNN):Code for the TrackR-CNN baseline for the Multi Object Tracking and Segmentation (MOTS) task.
 - [votenet](https://github.com/winnerineast/votenet): Deep Hough Voting for 3D Object Detection in Point Clouds.
+- [yolact](https://github.com/winnerineast/yolact):A simple, fully convolutional model for real-time instance segmentation.
 
 ## <a name="ComputerVisionFaceRecognition">Computer Vision Face Recognition</a>
 - [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition with pyTorch](https://github.com/winnerineast/cdp):Implementation of "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition" (CDP).
@@ -192,6 +194,7 @@
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
+#### 2019-11-21: pause at yolact.
 #### 2019-11-17: pause at Netron.
 #### 2019-11-16: pause at MedicalNet.
 #### 2019-11-13: started to index my source codes. And first of all, I will re-structure the webpage.
