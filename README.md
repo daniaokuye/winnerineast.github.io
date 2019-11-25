@@ -35,6 +35,7 @@
 - [HP-Socket](https://github.com/winnerineast/HP-Socket): High Performance Network Framework in C++.
 - [Janus Gateway](https://github.com/winnerineast/janus-gateway): A WebRTC server.
 - [kubernets](https://github.com/winnerineast/kubernetes): famous container scheduler and management system.
+- [llvm](https://github.com/winnerineast/llvm):The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Despite its name, LLVM has little to do with traditional virtual machines. The name "LLVM" itself is not an acronym; it is the full name of the project.
 - [modern cpp tutorial](https://github.com/winnerineast/modern-cpp-tutorial):Modern C++ Tutorial: C++11/14/17/20 On the Fly.
 - [netty](https://github.com/winnerineast/netty): an event-driven asynchronous network application framework.
 - [nginx](https://github.com/winnerineast/nginx):A famous web server.
@@ -77,6 +78,7 @@
 ## <a name="MachineLearning">Machine Learning</a>
 - [autokeras](https://github.com/winnerineast/autokeras): Auto-Keras is an open source software library for automated machine learning (AutoML). 
 - [Machine Learning in Numpy](https://github.com/winnerineast/numpy-ml):Ever wish you had an inefficient but somewhat legible collection of machine learning algorithms implemented exclusively in numpy? No?
+- [xgboost](https://github.com/winnerineast/xgboost):XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.
 
 ## <a name="MobileOSProgramming">Mobile OS Programming</a>
 - [flutter](https://github.com/winnerineast/flutter):Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile, web and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.
@@ -91,6 +93,7 @@
 - [PaddlePaddle](https://github.com/winnerineast/Paddle):PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform, which is originally developed by Baidu scientists and engineers for the purpose of applying deep learning to many products at Baidu.
 - [plaidml](https://github.com/winnerineast/plaidml):PlaidML is an advanced and portable tensor compiler for enabling deep learning on laptops, embedded devices, or other devices where the available computing hardware is not well supported or the available software stack contains unpalatable license restrictions.
 - [pytorch](https://github.com/winnerineast/pytorch): PyTorch is a Python package that provides two high-level features: Tensor computation (like NumPy) with strong GPU acceleration;Deep neural networks built on a tape-based autograd system.
+- [pytorch-tutorials](https://github.com/winnerineast/pytorch-tutorials):PyTorch tutorials.
 - [tpu](https://github.com/winnerineast/tpu):This repository is a collection of reference models and tools used with Cloud TPUs.
 - [turicreate](https://github.com/winnerineast/turicreate):Turi Create simplifies the MacOS/iOS development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
 - [tensorflow](https://github.com/winnerineast/tensorflow): a famous deep learning platform from google.
