@@ -30,6 +30,7 @@
 - [bazel](https://github.com/winnerineast/bazel):a fast, scalable, multi-language and extensible build system.
 - [cicada](https://github.com/winnerineast/cicada): Fast lightweight HTTP service framework.
 - [CMake](https://github.com/winnerineast/CMake):CMake is a cross-platform, open-source build system generator.
+- [glog](https://github.com/winnerineast/glog): Google logging module in C++.
 - [gRPC](https://github.com/winnerineast/grpc):gRPC is a modern, open source, high-performance remote procedure call (RPC) framework that can run anywhere. gRPC enables client and server applications to communicate transparently, and simplifies the building of connected systems.
 - [guava](https://github.com/winnerineast/guava):Google Core Libraries for Java.
 - [HP-Socket](https://github.com/winnerineast/HP-Socket): High Performance Network Framework in C++.
@@ -40,6 +41,7 @@
 - [netty](https://github.com/winnerineast/netty): an event-driven asynchronous network application framework.
 - [nginx](https://github.com/winnerineast/nginx):A famous web server.
 - [oh-my-zsh](https://github.com/winnerineast/oh-my-zsh):Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.
+- [protobuf](https://github.com/winnerineast/protobuf):Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. 
 - [scope](https://github.com/winnerineast/scope): Weave Scope automatically generates a map of your application, enabling you to intuitively understand, monitor, and control your containerized, microservices-based application.
 - [Spring Boot Demo](https://github.com/winnerineast/spring-boot-demo): a collection of demos for Spring Boot.
 - [v8](https://github.com/winnerineast/v8): Java Script Engine.
@@ -77,6 +79,7 @@
 
 ## <a name="MachineLearning">Machine Learning</a>
 - [autokeras](https://github.com/winnerineast/autokeras): Auto-Keras is an open source software library for automated machine learning (AutoML). 
+- [leecode](https://github.com/winnerineast/leetcode): Collection of Leecode websites.
 - [Machine Learning in Numpy](https://github.com/winnerineast/numpy-ml):Ever wish you had an inefficient but somewhat legible collection of machine learning algorithms implemented exclusively in numpy? No?
 - [xgboost](https://github.com/winnerineast/xgboost):XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.
 
@@ -93,6 +96,8 @@
 - [PaddlePaddle](https://github.com/winnerineast/Paddle):PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform, which is originally developed by Baidu scientists and engineers for the purpose of applying deep learning to many products at Baidu.
 - [plaidml](https://github.com/winnerineast/plaidml):PlaidML is an advanced and portable tensor compiler for enabling deep learning on laptops, embedded devices, or other devices where the available computing hardware is not well supported or the available software stack contains unpalatable license restrictions.
 - [pytorch](https://github.com/winnerineast/pytorch): PyTorch is a Python package that provides two high-level features: Tensor computation (like NumPy) with strong GPU acceleration;Deep neural networks built on a tape-based autograd system.
+- [pytorch-examples](https://github.com/winnerineast/pytorch-examples): PyTorch example codes.
+- [pytorch-vision](https://github.com/winnerineast/pytorch-vision): Algorithm for computer vision based on PyTorch.
 - [pytorch-tutorials](https://github.com/winnerineast/pytorch-tutorials):PyTorch tutorials.
 - [tpu](https://github.com/winnerineast/tpu):This repository is a collection of reference models and tools used with Cloud TPUs.
 - [turicreate](https://github.com/winnerineast/turicreate):Turi Create simplifies the MacOS/iOS development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
@@ -103,6 +108,7 @@
 ## <a name="DeepLearningComponents">Deep Learning Components</a>
 - [BytePS](https://github.com/winnerineast/byteps):BytePS is a high performance and general distributed training framework. It supports TensorFlow, Keras, PyTorch, and MXNet, and can run on either TCP or RDMA network.
 - [mediapipe](https://github.com/winnerineast/mediapipe):MediaPipe is a framework for building multimodal (eg. video, audio, any time series data) applied ML pipelines. With MediaPipe, a perception pipeline can be built as a graph of modular components, including, for instance, inference models (e.g., TensorFlow, TFLite) and media processing functions.
+- [nccl](https://github.com/winnerineast/nccl): Optimized primitives for collective multi-GPU communications.
 - [tensor2tensor](https://github.com/winnerineast/tensor2tensor):T2T is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
 
 ## <a name="DeepLearningGeneralAlgorithmCodes">Deep Learning Gernal Algorithm Codes</a>
@@ -138,6 +144,8 @@
 - [FFmpeg](https://github.com/winnerineast/FFmpeg):FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 - [machinery](https://github.com/winnerineast/machinery):This is a framework used by Kerberos.io.
 - [Micro RTSP](https://github.com/winnerineast/Micro-RTSP): A RTSP video server intended for very small CPUs(ESP32 etc).
+- [mmcv](https://github.com/winnerineast/mmcv): MMCV is a foundational python library for computer vision research and supports many research projects in MMLAB, such as MMDetection and MMAction.
+- [mmdetection](https://github.com/winnerineast/mmdetection): Open MMLab Detection Toolbox.
 - [opencv](https://github.com/winnerineast/opencv): Open Source Computer Vision Processing Libraries.
 - [opencv_contrib](https://github.com/winnerineast/opencv_contrib): OpenCV's extra modules.
 - [opencv dldt](https://github.com/winnerineast/dldt):Deep Learning Deployment Toolkit.
@@ -197,6 +205,7 @@
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
+#### 2019-11-25: pause at tensorflow model-optimization
 #### 2019-11-21: pause at yolact.
 #### 2019-11-17: pause at Netron.
 #### 2019-11-16: pause at MedicalNet.
