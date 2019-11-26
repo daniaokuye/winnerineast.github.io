@@ -28,6 +28,7 @@
 
 ## <a name="BasicSoftwareEngineering">Basic Software Engineering</a>
 - [bazel](https://github.com/winnerineast/bazel):a fast, scalable, multi-language and extensible build system.
+- [boost](https://github.com/winnerineast/boost):The Boost project provides free peer-reviewed portable C++ source libraries.
 - [cicada](https://github.com/winnerineast/cicada): Fast lightweight HTTP service framework.
 - [CMake](https://github.com/winnerineast/CMake):CMake is a cross-platform, open-source build system generator.
 - [glog](https://github.com/winnerineast/glog): Google logging module in C++.
@@ -61,6 +62,7 @@
 - [AdminLTE](https://github.com/winnerineast/AdminLTE):AdminLTE -- is a fully responsive admin template. Based on Bootstrap 3 & 4 framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. 
 - [Ant Design Pro](https://github.com/winnerineast/ant-design-pro):An out-of-box UI solution for enterprise applications as a React boilerplate.
 - [captum](https://github.com/winnerineast/captum):Captum is a model interpretability and understanding library for PyTorch. Captum means comprehension in latin and contains general purpose implementations of integrated gradients, saliency maps, smoothgrad, vargrad and others for PyTorch models. It has quick integration for models built with domain-specific libraries such as torchvision, torchtext, and others.
+- [Data Visualisation Libraries](https://github.com/winnerineast/Data-Visualisation-libraries):Don’t simply show data, tell a story with it!
 - [FactorGraph](https://github.com/winnerineast/FactorGraphs):Animating factor graphs using manim, networkx and manimnx.
 - [gentelella](https://github.com/winnerineast/gentelella): Free Bootstrap 3 Admin Template.
 - [guns](https://github.com/winnerineast/Guns): Admin template based on Spring Boot 2.
@@ -103,6 +105,8 @@
 - [turicreate](https://github.com/winnerineast/turicreate):Turi Create simplifies the MacOS/iOS development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
 - [tensorflow](https://github.com/winnerineast/tensorflow): a famous deep learning platform from google.
 - [tensorflow-examples](https://github.com/winnerineast/examples): Tensorflow examples from official website.
+- [Tensor Network](https://github.com/winnerineast/TensorNetwork):A tensor network wrapper for TensorFlow, JAX, and Numpy.
+- [tensorflow-model-optimization](https://github.com/winnerineast/model-optimization) Algorithm optimization with tensorflow.
 - [tfpyth](https://github.com/winnerineast/tfpyth): Putting Tensorflow back in PyTorch, back in Tensorflow.
 
 ## <a name="DeepLearningComponents">Deep Learning Components</a>
@@ -124,6 +128,7 @@
 ## <a name="NLPModels">NLP Models</a>
 - [GPT-2](https://github.com/winnerineast/gpt-2):best NLP model we have.
 - [GPT-2 Chinese](https://github.com/winnerineast/GPT2-Chinese): GPT2 Chinese model.
+- [HarvestText](https://github.com/winnerineast/HarvestText):Sow with little data seed, harvest much from a text field.
 - [MASS](https://github.com/winnerineast/MASS):MASS is a novel pre-training method for sequence to sequence based language generation tasks. It randomly masks a sentence fragment in the encoder, and then predicts it in the decoder.
 - [Neural NLP Neural Classifier](https://github.com/winnerineast/NeuralNLP-NeuralClassifier):NeuralClassifier is designed for quick implementation of neural models for hierarchical multi-label classification task, which is more challenging and common in real-world scenarios. A salient feature is that NeuralClassifier currently provides a variety of text encoders, such as FastText, TextCNN, TextRNN, RCNN, VDCNN, DPCNN, DRNN, AttentiveConvNet and Transformer encoder, etc. It also supports other text classification scenarios, including binary-class and multi-class classification. It is built on PyTorch. Experiments show that models built in our toolkit achieve comparable performance with reported results in the literature.
 - [Neural Relation Extraction with Tensorflow](https://github.com/winnerineast/TensorFlow-NRE):Neural relation extraction aims to extract relations from plain text with neural models, which has been the state-of-the-art methods for relation extraction. In this project, we provide our implementations of a word-level and sentence-level combined Bidirectional GRU network (BGRU+2ATT).
@@ -205,7 +210,8 @@
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
-#### 2019-11-25: pause at tensorflow model-optimization
+#### 2019-11-26：pause at HarvestText.
+#### 2019-11-25: pause at boost.
 #### 2019-11-21: pause at yolact.
 #### 2019-11-17: pause at Netron.
 #### 2019-11-16: pause at MedicalNet.
