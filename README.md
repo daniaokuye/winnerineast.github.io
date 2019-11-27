@@ -25,6 +25,7 @@
 
 ## <a name="AwesomeSeries">Awesome Series</a>
 - [Microservices](https://github.com/winnerineast/awesome-microservices):A curated list of Microservice Architecture related principles and technologies. 
+- [Ma Nong Weekly](https://github.com/winnerineast/weekly.manong.io): a weekly magzine for codings.
 
 ## <a name="BasicSoftwareEngineering">Basic Software Engineering</a>
 - [bazel](https://github.com/winnerineast/bazel):a fast, scalable, multi-language and extensible build system.
@@ -93,6 +94,7 @@
 - [keras](https://github.com/winnerineast/keras):Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
 - [keras-tuner](https://github.com/winnerineast/keras-tuner):An hyperparameter tuner for Keras, specifically for tf.keras with TensorFlow 2.0.
 - [ludwig](https://github.com/winnerineast/ludwig):Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
+- [MMdnn](https://github.com/winnerineast/MMdnn):A comprehensive, cross-framework solution to convert, visualize and diagnose deep neural network models. The "MM" in MMdnn stands for model management and "dnn" is an acronym for the deep neural network.
 - [OpenVINO Toolkit Open Model Zoo](https://github.com/winnerineast/open_model_zoo):This repository includes optimized deep learning models and a set of demos to expedite development of high-performance deep learning inference applications. Use these free pre-trained models instead of training your own models to speed-up the development and production deployment process.
 - [OpenVINO Training Extensions](https://github.com/winnerineast/openvino_training_extensions): OpenVINO Training Extensions provide a convenient environment to train Deep Learning models and convert them using OpenVINO™ Toolkit for optimized inference.
 - [PaddlePaddle](https://github.com/winnerineast/Paddle):PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform, which is originally developed by Baidu scientists and engineers for the purpose of applying deep learning to many products at Baidu.
@@ -145,8 +147,10 @@
 - [Knowledge Graph Data](https://github.com/winnerineast/KnowledgeGraphData): So far the biggest chinese knowledge graphs data.
 
 ## <a name="ComputerVisionProcessing">Computer Vision Processing</a>
+- [cvat](https://github.com/winnerineast/cvat):CVAT is completely re-designed and re-implemented version of Video Annotation Tool from Irvine, California tool. It is free, online, interactive video and image annotation tool for computer vision. It is being used by our team to annotate million of objects with different properties. Many UI and UX decisions are based on feedbacks from professional data annotation team.
 - [Easy RTSP Server](https://github.com/winnerineast/EasyIPCamera): a RTSP server to support multiple platform including windows, Linux, Android and others.
 - [FFmpeg](https://github.com/winnerineast/FFmpeg):FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+- [libvlcpp](https://github.com/winnerineast/libvlcpp):libVLC is the core engine and the interface to the multimedia framework on which VLC media player is based. This is a C++ binding.
 - [machinery](https://github.com/winnerineast/machinery):This is a framework used by Kerberos.io.
 - [Micro RTSP](https://github.com/winnerineast/Micro-RTSP): A RTSP video server intended for very small CPUs(ESP32 etc).
 - [mmcv](https://github.com/winnerineast/mmcv): MMCV is a foundational python library for computer vision research and supports many research projects in MMLAB, such as MMDetection and MMAction.
@@ -181,10 +185,12 @@
 - [yolact](https://github.com/winnerineast/yolact):A simple, fully convolutional model for real-time instance segmentation.
 
 ## <a name="ComputerVisionFaceRecognition">Computer Vision Face Recognition</a>
+- [cnn face landmark](https://github.com/winnerineast/cnn-facial-landmark):Facial landmark detection based on convolution neural network.
 - [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition with pyTorch](https://github.com/winnerineast/cdp):Implementation of "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition" (CDP).
 - [facenet](https://github.com/winnerineast/facenet): face recognition with Tensorflow.
 - [Face Recognition](https://github.com/winnerineast/face_recognition): a face recognition system based on dlib.
 - [face recognition framework](https://github.com/winnerineast/face_recognition_framework): This is a face recognition framework based on PyTorch with convenient training, evaluation and feature extraction functions. It is originally a multi-task face recognition framework for our accpeted ECCV 2018 paper, "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition". However, it is also a common framework for face recognition. You can freely customize your experiments with your data and configurations with it.
+- [FRCore](https://github.com/winnerineast/FRCore):this is to show the capability of FR.
 - [insightface](https://github.com/winnerineast/insightface): Face Analysis Project on MXNet.
 - [Menpo BenchMark](https://github.com/winnerineast/MenpoBenchmark): Multi-pose 2D and 3D Face Alignment and Tracking.
 - [SeetaFace2](https://github.com/winnerineast/SeetaFace2): a set of FRS including face detector, face landmarker, face recognizer.
@@ -210,6 +216,7 @@
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
+#### 2019-11-27: pause at cvat.
 #### 2019-11-26：pause at HarvestText.
 #### 2019-11-25: pause at boost.
 #### 2019-11-21: pause at yolact.
