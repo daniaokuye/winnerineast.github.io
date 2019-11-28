@@ -30,6 +30,7 @@
 ## <a name="BasicSoftwareEngineering">Basic Software Engineering</a>
 - [bazel](https://github.com/winnerineast/bazel):a fast, scalable, multi-language and extensible build system.
 - [boost](https://github.com/winnerineast/boost):The Boost project provides free peer-reviewed portable C++ source libraries.
+- [ccahce](https://github.com/winnerineast/ccache):ccache is a compiler cache. It speeds up recompilation by caching the result of previous compilations and detecting when the same compilation is being done again. Supported languages are C, C++, Objective-C and Objective-C++.
 - [cicada](https://github.com/winnerineast/cicada): Fast lightweight HTTP service framework.
 - [CMake](https://github.com/winnerineast/CMake):CMake is a cross-platform, open-source build system generator.
 - [glog](https://github.com/winnerineast/glog): Google logging module in C++.
@@ -61,6 +62,7 @@
 
 ## <a name="VisualizationTools">Visualization Tools</a>
 - [AdminLTE](https://github.com/winnerineast/AdminLTE):AdminLTE -- is a fully responsive admin template. Based on Bootstrap 3 & 4 framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. 
+- [Algorithm Visualizer](https://github.com/winnerineast/algorithm-visualizer):Learning an algorithm gets much easier with visualizing it.
 - [Ant Design Pro](https://github.com/winnerineast/ant-design-pro):An out-of-box UI solution for enterprise applications as a React boilerplate.
 - [captum](https://github.com/winnerineast/captum):Captum is a model interpretability and understanding library for PyTorch. Captum means comprehension in latin and contains general purpose implementations of integrated gradients, saliency maps, smoothgrad, vargrad and others for PyTorch models. It has quick integration for models built with domain-specific libraries such as torchvision, torchtext, and others.
 - [Data Visualisation Libraries](https://github.com/winnerineast/Data-Visualisation-libraries):Don’t simply show data, tell a story with it!
@@ -68,6 +70,7 @@
 - [gentelella](https://github.com/winnerineast/gentelella): Free Bootstrap 3 Admin Template.
 - [guns](https://github.com/winnerineast/Guns): Admin template based on Spring Boot 2.
 - [iview admin](https://github.com/winnerineast/iview-admin): it's a Vue.JS admin system template based on iView.
+- [Jupyter](https://github.com/winnerineast/jupyter):Jupyter metapackage for installation and docs.
 - [kepler.gl](https://github.com/winnerineast/kepler.gl):Kepler.gl is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets. Built on top of Mapbox GL and deck.gl, kepler.gl can render millions of points representing thousands of trips and perform spatial aggregations on the fly.
 - [manim](https://github.com/winnerineast/manim):Manim is an animation engine for explanatory math videos. It's used to create precise animations programmatically, as seen in the videos at 3Blue1Brown.
 - [manimnx](https://github.com/winnerineast/manimnx):Interface between networkx and manim.
@@ -116,10 +119,12 @@
 - [mediapipe](https://github.com/winnerineast/mediapipe):MediaPipe is a framework for building multimodal (eg. video, audio, any time series data) applied ML pipelines. With MediaPipe, a perception pipeline can be built as a graph of modular components, including, for instance, inference models (e.g., TensorFlow, TFLite) and media processing functions.
 - [nccl](https://github.com/winnerineast/nccl): Optimized primitives for collective multi-GPU communications.
 - [tensor2tensor](https://github.com/winnerineast/tensor2tensor):T2T is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
+- [TensorRT](https://github.com/winnerineast/TensorRT):This repository contains the Open Source Software (OSS) components of NVIDIA TensorRT. Included are the sources for TensorRT plugins and parsers (Caffe and ONNX), as well as sample applications demonstrating usage and capabilities of the TensorRT platform.
 
 ## <a name="DeepLearningGeneralAlgorithmCodes">Deep Learning Gernal Algorithm Codes</a>
 - [CapsNet with keras](https://github.com/winnerineast/CapsNet-Keras)：A Keras implementation of CapsNet in the paper: Sara Sabour, Nicholas Frosst, Geoffrey E Hinton. Dynamic Routing Between Capsules. NIPS 2017.
 - [Google Research](https://github.com/winnerineast/google-research):This repository contains code released by Google AI Research.
+- [keras applications](https://github.com/winnerineast/keras-applications):Keras Applications is the applications module of the Keras deep learning library. It provides model definitions and pre-trained weights for a number of popular archictures, such as VGG16, ResNet50, Xception, MobileNet, and more.
 - [morph net](https://github.com/winnerineast/morph-net):MorphNet is a method for learning deep network structure during training. The key principle is continuous relaxation of the network-structure learning problem. Specifically, activation sparsity is induced by adding regularizers that target the consumption of specific resources such as FLOPs or model size. When the regularizer loss is added to the training loss and their sum is minimized via stochastic gradient descent or a similar optimizer, the learning problem becomes a constrained optimization of the structure of the network, under the constraint represented by the regularizer. The method was first introduced in our CVPR 2018, paper "MorphNet: Fast & Simple Resource-Constrained Learning of Deep Network Structure". A overview of the approach as well as new device-specific latency regularizers were prestend in GTC 2019.
 - [pysot](https://github.com/winnerineast/pysot):PySOT is a software system designed by SenseTime Video Intelligence Research team. It implements state-of-the-art single object tracking algorithms, including SiamRPN and SiamMask. It is written in Python and powered by the PyTorch deep learning framework. This project also contains a Python port of toolkit for evaluating trackers.
 - [pythia](https://github.com/winnerineast/pythia):Pythia is a modular framework for vision and language multimodal research. Built on top of PyTorch.
@@ -168,8 +173,10 @@
 ## <a name="ComputerVisionAlgorithm">Computer Vison Algorithm</a>
 - [AlphaPose](https://github.com/winnerineast/AlphaPose):Alpha Pose is an accurate multi-person pose estimator, which is the first real-time open-source system that achieves 70+ mAP (72.3 mAP) on COCO dataset and 80+ mAP (82.1 mAP) on MPII dataset.** To match poses that correspond to the same person across frames, we also provide an efficient online pose tracker called Pose Flow. It is the first open-source online pose tracker that achieves both 60+ mAP (66.5 mAP) and 50+ MOTA (58.3 MOTA) on PoseTrack Challenge dataset.
 - [Aquila](https://github.com/winnerineast/aquila): Aquila is an app-level framework to process multimedia, aims to unify the different middleware SDK on generic level. It mainly support software encoding and decoding on CPU, and easily porting. It can be used on video surveillance, ipcam or drone.
+- [Densebody](https://github.com/winnerineast/densebody_pytorch): PyTorch implementation of CloudWalk's recent paper DenseBody from images to 3D models.
 - [detectron2](https://github.com/winnerineast/detectron2):Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms. It is a ground-up rewrite of the previous version, Detectron, and it originates from maskrcnn-benchmark.
 - [Everybody Dance Now with PyTorch](https://github.com/winnerineast/everybody_dance_now_pytorch): A PyTorch implementation of "Everybody Dance Now" from Berkeley AI lab. Including all functionality except pose normalization.
+- [Kalman Filter for Multiple Objects Tracking](https://github.com/winnerineast/kalman_filter_multi_object_tracking):Multiple object tracking using Kalman Filter and Hungarian Algorithm - OpenCV.
 - [Hand Track JS](https://github.com/winnerineast/handtrack.js):Handtrack.js is a library for prototyping realtime hand detection (bounding box), directly in the browser. Underneath, it uses a trained convolutional neural network that provides bounding box predictions for the location of hands in an image. The convolutional neural network (ssdlite, mobilenetv2) is trained using the tensorflow object detection api.
 - [Image Duplication Detection](https://github.com/winnerineast/imagededup):imagededup is a python package that simplifies the task of finding exact and near duplicates in an image collection.
 - [MedicalNet](https://github.com/winnerineast/MedicalNet):This repository contains a Pytorch implementation of Med3D: Transfer Learning for 3D Medical Image Analysis. Many studies have shown that the performance on deep learning is significantly affected by volume of training data. The MedicalNet project aggregated the dataset with diverse modalities, target organs, and pathologies to to build relatively large datasets. Based on this dataset, a series of 3D-ResNet pre-trained models and corresponding transfer-learning training code are provided.
@@ -182,6 +189,7 @@
 - [TorchCV](https://github.com/winnerineast/torchcv): A pyTorch-based framework for deep learning algorithms in computer vision.
 - [Track R-CNN](https://github.com/winnerineast/TrackR-CNN):Code for the TrackR-CNN baseline for the Multi Object Tracking and Segmentation (MOTS) task.
 - [votenet](https://github.com/winnerineast/votenet): Deep Hough Voting for 3D Object Detection in Point Clouds.
+- [Yog AI](https://github.com/winnerineast/YogAI):YogAI is a responsive virtual yoga instructor using pose estimation to guide and correct a yogi that runs on a raspberry pi smart mirror.
 - [yolact](https://github.com/winnerineast/yolact):A simple, fully convolutional model for real-time instance segmentation.
 
 ## <a name="ComputerVisionFaceRecognition">Computer Vision Face Recognition</a>
@@ -210,6 +218,8 @@
 - [keras-rl](https://github.com/winnerineast/keras-rl):keras-rl implements some state-of-the art deep reinforcement learning algorithms in Python and seamlessly integrates with the deep learning library Keras.
 - [open spiel](https://github.com/winnerineast/open_spiel):OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games. 
 - [spriteworld](https://github.com/winnerineast/spriteworld):Spriteworld: A Flexible, Configurable Reinforcement Learning Environment.
+- [StereoNet](https://github.com/winnerineast/StereoNet):Guided Hierarchical Refinement for Real-Time Edge-Aware Depth prediction model in pytorch. 
+- [Weight Agnostic Neural Networks](https://github.com/winnerineast/weightagnostic.github.io): Not all neural network architectures are created equal, some perform much better than others for certain tasks. But how important are the weight parameters of a neural network compared to its architecture? In this work, we question to what extent neural network architectures alone, without learning any weight parameters, can encode solutions for a given task. We propose a search method for neural network architectures that can already perform a task without any explicit weight training. To evaluate these networks, we populate the connections with a single shared weight parameter sampled from a uniform random distribution, and measure the expected performance. We demonstrate that our method can find minimal neural network architectures that can perform several reinforcement learning tasks without weight training. On supervised learning domain, we find architectures that can achieve much higher than chance accuracy on MNIST using random weights.
 
 ## <a name="Needtofurtherprocesstheserepos">Need to further process these repos</a>
 - [paper collections and codes](https://github.com/winnerineast/handong1587.github.io)
