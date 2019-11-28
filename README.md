@@ -14,6 +14,7 @@
 - [Recommendation System](#RecommendationSystem)
 - [NLP Data](#NLPData)
 - [Knowledge Graph](#KnowledgeGraph)
+- [Computer Vision Data](#ComputerVisionData)
 - [Computer Vision Processing](#ComputerVisionProcessing)
 - [Computer Vison Algorithm](#ComputerVisionAlgorithm)
 - [Computer Vision Face Recognition](#ComputerVisionFaceRecognition)
@@ -64,8 +65,10 @@
 - [AdminLTE](https://github.com/winnerineast/AdminLTE):AdminLTE -- is a fully responsive admin template. Based on Bootstrap 3 & 4 framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. 
 - [Algorithm Visualizer](https://github.com/winnerineast/algorithm-visualizer):Learning an algorithm gets much easier with visualizing it.
 - [Ant Design Pro](https://github.com/winnerineast/ant-design-pro):An out-of-box UI solution for enterprise applications as a React boilerplate.
+- [Blur Admin](https://github.com/winnerineast/blur-admin):Customizable admin panel framework made with ❤️ by Akveo team. Follow us on Twitter to get latest news about this template first!
 - [captum](https://github.com/winnerineast/captum):Captum is a model interpretability and understanding library for PyTorch. Captum means comprehension in latin and contains general purpose implementations of integrated gradients, saliency maps, smoothgrad, vargrad and others for PyTorch models. It has quick integration for models built with domain-specific libraries such as torchvision, torchtext, and others.
 - [Data Visualisation Libraries](https://github.com/winnerineast/Data-Visualisation-libraries):Don’t simply show data, tell a story with it!
+- [facets](https://github.com/winnerineast/facets):The facets project contains two visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive.
 - [FactorGraph](https://github.com/winnerineast/FactorGraphs):Animating factor graphs using manim, networkx and manimnx.
 - [gentelella](https://github.com/winnerineast/gentelella): Free Bootstrap 3 Admin Template.
 - [guns](https://github.com/winnerineast/Guns): Admin template based on Spring Boot 2.
@@ -80,6 +83,7 @@
 - [tabler](https://github.com/winnerineast/tabler):Premium and Open Source dashboard template with responsive and high-quality UI.
 
 ## <a name="SearchEngine">Search Engine</a>
+- [faiss](https://github.com/winnerineast/faiss):Faiss is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy. Some of the most useful algorithms are implemented on the GPU. It is developed by Facebook AI Research.
 - [Python Autocomplete](https://github.com/winnerineast/python_autocomplete): This a toy project we started to see how well a simple LSTM model can autocomplete python code.
 - [source graph](https://github.com/winnerineast/sourcegraph):Code search and navigation tools.
 
@@ -95,6 +99,7 @@
 ## <a name="DeepLearningPlatform">Deep Learning Platform</a>
 - [angel](https://github.com/winnerineast/angel):This project Angel is a high-performance distributed machine learning platform based on the philosophy of Parameter Server. It is tuned for performance with big data from Tencent and has a wide range of applicability and stability, demonstrating increasing advantage in handling higher dimension model. Angel is jointly developed by Tencent and Peking University, taking account of both high availability in industry and innovation in academia. Angel is developed with Java and Scala. It supports running on Yarn and Kubernetes. With the PS Service abstraction, it provides two modules, namely Spark on Angel and Pytorch on Angel separately, which enable integrate the power of Spark/PyTorch and Parameter Server for distributed training. Graph Computing and deep learning frameworks support is under development and will be released in the future.
 - [keras](https://github.com/winnerineast/keras):Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
+- [keras-contrib](https://github.com/winnerineast/keras-contrib):Keras Community Contributions.
 - [keras-tuner](https://github.com/winnerineast/keras-tuner):An hyperparameter tuner for Keras, specifically for tf.keras with TensorFlow 2.0.
 - [ludwig](https://github.com/winnerineast/ludwig):Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
 - [MMdnn](https://github.com/winnerineast/MMdnn):A comprehensive, cross-framework solution to convert, visualize and diagnose deep neural network models. The "MM" in MMdnn stands for model management and "dnn" is an acronym for the deep neural network.
@@ -123,6 +128,7 @@
 
 ## <a name="DeepLearningGeneralAlgorithmCodes">Deep Learning Gernal Algorithm Codes</a>
 - [CapsNet with keras](https://github.com/winnerineast/CapsNet-Keras)：A Keras implementation of CapsNet in the paper: Sara Sabour, Nicholas Frosst, Geoffrey E Hinton. Dynamic Routing Between Capsules. NIPS 2017.
+- [deep learning models](https://github.com/winnerineast/deeplearning-models):A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
 - [Google Research](https://github.com/winnerineast/google-research):This repository contains code released by Google AI Research.
 - [keras applications](https://github.com/winnerineast/keras-applications):Keras Applications is the applications module of the Keras deep learning library. It provides model definitions and pre-trained weights for a number of popular archictures, such as VGG16, ResNet50, Xception, MobileNet, and more.
 - [morph net](https://github.com/winnerineast/morph-net):MorphNet is a method for learning deep network structure during training. The key principle is continuous relaxation of the network-structure learning problem. Specifically, activation sparsity is induced by adding regularizers that target the consumption of specific resources such as FLOPs or model size. When the regularizer loss is added to the training loss and their sum is minimized via stochastic gradient descent or a similar optimizer, the learning problem becomes a constrained optimization of the structure of the network, under the constraint represented by the regularizer. The method was first introduced in our CVPR 2018, paper "MorphNet: Fast & Simple Resource-Constrained Learning of Deep Network Structure". A overview of the approach as well as new device-specific latency regularizers were prestend in GTC 2019.
@@ -133,6 +139,7 @@
 - [Deep Learning Books in Chinese](https://github.com/winnerineast/deeplearningbook-chinese): the Chinese version of Ian Goodfellow and Yoshua Bengio and Aaron Courville's book.
 
 ## <a name="NLPModels">NLP Models</a>
+- [BERT](https://github.com/winnerineast/bert): one of famouse NLP models.
 - [GPT-2](https://github.com/winnerineast/gpt-2):best NLP model we have.
 - [GPT-2 Chinese](https://github.com/winnerineast/GPT2-Chinese): GPT2 Chinese model.
 - [HarvestText](https://github.com/winnerineast/HarvestText):Sow with little data seed, harvest much from a text field.
@@ -151,8 +158,12 @@
 ## <a name="KnowledgeGraph">Knowledge Graph</a>
 - [Knowledge Graph Data](https://github.com/winnerineast/KnowledgeGraphData): So far the biggest chinese knowledge graphs data.
 
+## <a name="ComputerVisionData">Computer Vision Data</a>
+- [COCO](https://github.com/winnerineast/cocoapi):COCO data access API.
+
 ## <a name="ComputerVisionProcessing">Computer Vision Processing</a>
 - [cvat](https://github.com/winnerineast/cvat):CVAT is completely re-designed and re-implemented version of Video Annotation Tool from Irvine, California tool. It is free, online, interactive video and image annotation tool for computer vision. It is being used by our team to annotate million of objects with different properties. Many UI and UX decisions are based on feedbacks from professional data annotation team.
+- [dlib](https://github.com/winnerineast/dlib):Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. See http://dlib.net for the main project documentation and API reference.
 - [Easy RTSP Server](https://github.com/winnerineast/EasyIPCamera): a RTSP server to support multiple platform including windows, Linux, Android and others.
 - [FFmpeg](https://github.com/winnerineast/FFmpeg):FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 - [libvlcpp](https://github.com/winnerineast/libvlcpp):libVLC is the core engine and the interface to the multimedia framework on which VLC media player is based. This is a C++ binding.
@@ -163,6 +174,7 @@
 - [opencv](https://github.com/winnerineast/opencv): Open Source Computer Vision Processing Libraries.
 - [opencv_contrib](https://github.com/winnerineast/opencv_contrib): OpenCV's extra modules.
 - [opencv dldt](https://github.com/winnerineast/dldt):Deep Learning Deployment Toolkit.
+- [openshot QT](https://github.com/winnerineast/openshot-qt):OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [RTSP Server](https://github.com/winnerineast/RtspServer): A RTSP server and pusher based on C++11.
 - [v4l2 rtsp server](https://github.com/winnerineast/v4l2rtspserver):RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9.
 - [video object removal](https://github.com/winnerineast/video-object-removal):Just draw a bounding box and you can remove the object you want to remove.
@@ -179,8 +191,12 @@
 - [Kalman Filter for Multiple Objects Tracking](https://github.com/winnerineast/kalman_filter_multi_object_tracking):Multiple object tracking using Kalman Filter and Hungarian Algorithm - OpenCV.
 - [Hand Track JS](https://github.com/winnerineast/handtrack.js):Handtrack.js is a library for prototyping realtime hand detection (bounding box), directly in the browser. Underneath, it uses a trained convolutional neural network that provides bounding box predictions for the location of hands in an image. The convolutional neural network (ssdlite, mobilenetv2) is trained using the tensorflow object detection api.
 - [Image Duplication Detection](https://github.com/winnerineast/imagededup):imagededup is a python package that simplifies the task of finding exact and near duplicates in an image collection.
+- [Image Segmentation with Keras](https://github.com/winnerineast/image-segmentation-keras):Implementation of various Deep Image Segmentation models in keras.
 - [MedicalNet](https://github.com/winnerineast/MedicalNet):This repository contains a Pytorch implementation of Med3D: Transfer Learning for 3D Medical Image Analysis. Many studies have shown that the performance on deep learning is significantly affected by volume of training data. The MedicalNet project aggregated the dataset with diverse modalities, target organs, and pathologies to to build relatively large datasets. Based on this dataset, a series of 3D-ResNet pre-trained models and corresponding transfer-learning training code are provided.
+- [Mobilenet v3](https://github.com/winnerineast/mobilenetv3.pytorch):Reproduction of MobileNet V3 architecture as described in Searching for MobileNetV3 by Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang, Yukun Zhu, Ruoming Pang, Vijay Vasudevan, Quoc V. Le, Hartwig Adam on ILSVRC2012 benchmark with PyTorch framework.
+- [MOTS Tool](https://github.com/winnerineast/mots_tools):Tools for evaluating and visualizing results for the Multi Object Tracking and Segmentation (MOTS) task with algorithm TrackR-CNN.
 - [Multi target tracker](https://github.com/winnerineast/Multitarget-tracker):multiple objects tracking model based on hungarian algorithm + Kalman filter.
+- [NAS-FPN-Tensorflow](https://github.com/winnerineast/NAS_FPN_Tensorflow):Learning Scalable Feature Pyramid Architecture for Object Detection with Tensorflow.
 - [OpenPose](https://github.com/winnerineast/openpose):OpenPose represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.
 - [OpenPose Training Code](https://github.com/winnerineast/openpose_train): OpenPose training codes.
 - [OpenPost Unity Plugin](https://github.com/winnerineast/openpose_unity_plugin):OpenPose Unity Plugin is a wrapper of the OpenPose library for Unity users. It provides formatted OpenPose output and some examples. OpenPose is a real-time multi-person system able to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.
@@ -191,16 +207,19 @@
 - [votenet](https://github.com/winnerineast/votenet): Deep Hough Voting for 3D Object Detection in Point Clouds.
 - [Yog AI](https://github.com/winnerineast/YogAI):YogAI is a responsive virtual yoga instructor using pose estimation to guide and correct a yogi that runs on a raspberry pi smart mirror.
 - [yolact](https://github.com/winnerineast/yolact):A simple, fully convolutional model for real-time instance segmentation.
+- [yolov3 with keras](https://github.com/winnerineast/keras-yolo3):A Keras implementation of YOLOv3 (Tensorflow backend) inspired by allanzelener/YAD2K.
 
 ## <a name="ComputerVisionFaceRecognition">Computer Vision Face Recognition</a>
 - [cnn face landmark](https://github.com/winnerineast/cnn-facial-landmark):Facial landmark detection based on convolution neural network.
 - [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition with pyTorch](https://github.com/winnerineast/cdp):Implementation of "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition" (CDP).
+- [FaceKit](https://github.com/winnerineast/FaceKit):Real-Time Rotation-Invariant Face Detection and Tracking (200FPS on CPU).
 - [facenet](https://github.com/winnerineast/facenet): face recognition with Tensorflow.
 - [Face Recognition](https://github.com/winnerineast/face_recognition): a face recognition system based on dlib.
 - [face recognition framework](https://github.com/winnerineast/face_recognition_framework): This is a face recognition framework based on PyTorch with convenient training, evaluation and feature extraction functions. It is originally a multi-task face recognition framework for our accpeted ECCV 2018 paper, "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition". However, it is also a common framework for face recognition. You can freely customize your experiments with your data and configurations with it.
 - [FRCore](https://github.com/winnerineast/FRCore):this is to show the capability of FR.
 - [insightface](https://github.com/winnerineast/insightface): Face Analysis Project on MXNet.
 - [Menpo BenchMark](https://github.com/winnerineast/MenpoBenchmark): Multi-pose 2D and 3D Face Alignment and Tracking.
+- [MobileFace](https://github.com/winnerineast/MobileFace):A face recognition solution on mobile device.
 - [SeetaFace2](https://github.com/winnerineast/SeetaFace2): a set of FRS including face detector, face landmarker, face recognizer.
 - [Ultra Light Fast Generic Face Detector with 1MB size](https://github.com/winnerineast/Ultra-Light-Fast-Generic-Face-Detector-1MB):no doubt it's a small and good model for face detection.
 
@@ -210,6 +229,8 @@
 ## <a name="GAN">GAN</a>
 - [Deep Privacy](https://github.com/winnerineast/DeepPrivacy):DeepPrivacy is a fully automatic anonymization technique for images.
 - [Image Generator](https://github.com/winnerineast/image_generator):using GANs to generate images.
+- [Keras GAN](https://github.com/winnerineast/Keras-GAN-1):Collection of Keras implementations of Generative Adversarial Networks (GANs) suggested in research papers. These models are in some cases simplified versions of the ones ultimately described in the papers, but I have chosen to focus on getting the core ideas covered instead of getting every layer configuration right. Contributions and suggestions of GAN varieties to implement are very welcomed.
+- [PyTorch GAN](https://github.com/winnerineast/PyTorch-GAN):Collection of PyTorch implementations of Generative Adversarial Network varieties presented in research papers. Model architectures will not always mirror the ones proposed in the papers, but I have chosen to focus on getting the core ideas covered instead of getting every layer configuration right. Contributions and suggestions of GANs to implement are very welcomed.
 
 ## <a name="ReinforcementLearning">Reinforcement Learning</a>
 - [baselines](https://github.com/winnerineast/baselines):OpenAI Baselines is a set of high-quality implementations of reinforcement learning algorithms.
@@ -226,6 +247,7 @@
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
+#### 2019-11-28: pause at Multi-Camera-Object-Tracking-via-Transferring-Representation-to-Top-View.
 #### 2019-11-27: pause at cvat.
 #### 2019-11-26：pause at HarvestText.
 #### 2019-11-25: pause at boost.
