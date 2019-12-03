@@ -36,6 +36,7 @@
 - [30DaysMakeOS](https://github.com/winnerineast/30dayMakeOS):making a prototype OS.
 - [bazel](https://github.com/winnerineast/bazel):a fast, scalable, multi-language and extensible build system.
 - [boost](https://github.com/winnerineast/boost):The Boost project provides free peer-reviewed portable C++ source libraries.
+- [busybox](https://github.com/winnerineast/busybox): a small unix OS.
 - [ccahce](https://github.com/winnerineast/ccache):ccache is a compiler cache. It speeds up recompilation by caching the result of previous compilations and detecting when the same compilation is being done again. Supported languages are C, C++, Objective-C and Objective-C++.
 - [cicada](https://github.com/winnerineast/cicada): Fast lightweight HTTP service framework.
 - [CMake](https://github.com/winnerineast/CMake):CMake is a cross-platform, open-source build system generator.
@@ -44,13 +45,17 @@
 - [guava](https://github.com/winnerineast/guava):Google Core Libraries for Java.
 - [HP-Socket](https://github.com/winnerineast/HP-Socket): High Performance Network Framework in C++.
 - [Janus Gateway](https://github.com/winnerineast/janus-gateway): A WebRTC server.
+- [kafka](https://github.com/winnerineast/kafka): a famous queue and ESB.
 - [kubernets](https://github.com/winnerineast/kubernetes): famous container scheduler and management system.
 - [llvm](https://github.com/winnerineast/llvm):The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Despite its name, LLVM has little to do with traditional virtual machines. The name "LLVM" itself is not an acronym; it is the full name of the project.
+- [make](https://github.com/winnerineast/make): a famous programming language compile tool.
 - [modern cpp tutorial](https://github.com/winnerineast/modern-cpp-tutorial):Modern C++ Tutorial: C++11/14/17/20 On the Fly.
 - [netty](https://github.com/winnerineast/netty): an event-driven asynchronous network application framework.
 - [nginx](https://github.com/winnerineast/nginx):A famous web server.
 - [oh-my-zsh](https://github.com/winnerineast/oh-my-zsh):Oh My Zsh is an open source, community-driven framework for managing your zsh configuration.
 - [protobuf](https://github.com/winnerineast/protobuf):Protocol Buffers (a.k.a., protobuf) are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data. 
+- [rio](https://github.com/winnerineast/rio):Rio is a MicroPaaS that can be layered on top of any standard Kubernetes cluster. Consisting of a few Kubernetes custom resources and a CLI to enhance the user experience, users can easily deploy services to Kubernetes and automatically get continuous delivery, DNS, HTTPS, routing, monitoring, autoscaling, canary deployments, git-triggered builds, and much more. All it takes to get going is an existing Kubernetes cluster and the rio CLI.
+- [rke](https://github.com/winnerineast/rke):Rancher Kubernetes Engine, an extremely simple, lightning fast Kubernetes installer that works everywhere.
 - [scope](https://github.com/winnerineast/scope): Weave Scope automatically generates a map of your application, enabling you to intuitively understand, monitor, and control your containerized, microservices-based application.
 - [Spring Boot Demo](https://github.com/winnerineast/spring-boot-demo): a collection of demos for Spring Boot.
 - [v8](https://github.com/winnerineast/v8): Java Script Engine.
@@ -91,6 +96,7 @@
 - [faiss](https://github.com/winnerineast/faiss):Faiss is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy. Some of the most useful algorithms are implemented on the GPU. It is developed by Facebook AI Research.
 - [Python Autocomplete](https://github.com/winnerineast/python_autocomplete): This a toy project we started to see how well a simple LSTM model can autocomplete python code.
 - [source graph](https://github.com/winnerineast/sourcegraph):Code search and navigation tools.
+- [yacy](https://github.com/winnerineast/yacy_search_server):YaCy is a search engine software. It takes a new approach to search because it does not use a central server. Instead, its search results come from a network of independent peers. In such a distributed network, no single entity decides what gets listed, or in which order results appear.
 
 ## <a name="MachineLearning">Machine Learning</a>
 - [autokeras](https://github.com/winnerineast/autokeras): Auto-Keras is an open source software library for automated machine learning (AutoML). 
@@ -121,6 +127,7 @@
 - [turicreate](https://github.com/winnerineast/turicreate):Turi Create simplifies the MacOS/iOS development of custom machine learning models. You don't have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your app.
 - [tensorflow](https://github.com/winnerineast/tensorflow): a famous deep learning platform from google.
 - [tensorflow-examples](https://github.com/winnerineast/examples): Tensorflow examples from official website.
+- [tensorflow-graphics](https://github.com/winnerineast/graphics):The last few years have seen a rise in novel differentiable graphics layers which can be inserted in neural network architectures. From spatial transformers to differentiable graphics renderers, these new layers leverage the knowledge acquired over years of computer vision and graphics research to build new and more efficient network architectures. Explicitly modeling geometric priors and constraints into neural networks opens up the door to architectures that can be trained robustly, efficiently, and more importantly, in a self-supervised fashion.
 - [Tensor Network](https://github.com/winnerineast/TensorNetwork):A tensor network wrapper for TensorFlow, JAX, and Numpy.
 - [tensorflow-model-optimization](https://github.com/winnerineast/model-optimization) Algorithm optimization with tensorflow.
 - [tfpyth](https://github.com/winnerineast/tfpyth): Putting Tensorflow back in PyTorch, back in Tensorflow.
@@ -154,6 +161,7 @@
 - [Neural Relation Extraction with Tensorflow](https://github.com/winnerineast/TensorFlow-NRE):Neural relation extraction aims to extract relations from plain text with neural models, which has been the state-of-the-art methods for relation extraction. In this project, we provide our implementations of a word-level and sentence-level combined Bidirectional GRU network (BGRU+2ATT).
 - [Plato Research Dialogue System](https://github.com/winnerineast/plato-research-dialogue-system):The Plato Research Dialogue System is a flexible framework that can be used to create, train, and evaluate conversational AI agents in various environments. It supports interactions through speech, text, or dialogue acts and each conversational agent can interact with data, human users, or other conversational agents (in a multi-agent setting). Every component of every agent can be trained independently online or offline and Plato provides an easy way of wrapping around virtually any existing model, as long as Plato's interface is adhered to.
 - [pyTorch transformers](https://github.com/winnerineast/pytorch-transformers):PyTorch-Transformers (formerly known as pytorch-pretrained-bert) is a library of state-of-the-art pre-trained models for Natural Language Processing (NLP).
+- [transformaer xl chinese](https://github.com/winnerineast/transformer-xl-chinese): a good chinese text generator.
 
 ## <a name="RecommendationSystem">Recommendation System</a>
 - [recommenders](https://github.com/winnerineast/recommenders): a collection of recommendation algorithms.
@@ -184,7 +192,9 @@
 - [opencv dldt](https://github.com/winnerineast/dldt):Deep Learning Deployment Toolkit.
 - [openshot QT](https://github.com/winnerineast/openshot-qt):OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [RTSP Server](https://github.com/winnerineast/RtspServer): A RTSP server and pusher based on C++11.
+- [taichi](https://github.com/winnerineast/taichi):Taichi is an open-source computer graphics library that aims to provide easy-to-use infrastructures for computer graphics R&D. It's written in C++14 and wrapped friendly with Python.
 - [v4l2 rtsp server](https://github.com/winnerineast/v4l2rtspserver):RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9.
+- [videoflow](https://github.com/winnerineast/videoflow)Videoflow is a Python framework for video stream processing. The library is designed to facilitate easy and quick definition of computer vision stream processing applications. It empowers developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code. It contains off-the-shelf components for object detection, object tracking, human pose estimation, etc, and it is easy to extend with your own.
 - [video object removal](https://github.com/winnerineast/video-object-removal):Just draw a bounding box and you can remove the object you want to remove.
 - [vlc](https://github.com/winnerineast/vlc):VLC is a popular libre and open source media player and multimedia engine, used by a large number of individuals, professionals, companies and institutions.
 - [youtube-dl](https://github.com/winnerineast/youtube-dl):youtube-dl - download videos from youtube.com or other video platforms.
@@ -198,10 +208,13 @@
 - [Everybody Dance Now with PyTorch](https://github.com/winnerineast/everybody_dance_now_pytorch): A PyTorch implementation of "Everybody Dance Now" from Berkeley AI lab. Including all functionality except pose normalization.
 - [Kalman Filter for Multiple Objects Tracking](https://github.com/winnerineast/kalman_filter_multi_object_tracking):Multiple object tracking using Kalman Filter and Hungarian Algorithm - OpenCV.
 - [Hand Track JS](https://github.com/winnerineast/handtrack.js):Handtrack.js is a library for prototyping realtime hand detection (bounding box), directly in the browser. Underneath, it uses a trained convolutional neural network that provides bounding box predictions for the location of hands in an image. The convolutional neural network (ssdlite, mobilenetv2) is trained using the tensorflow object detection api.
+- [human pose estimation with pytorch](https://github.com/winnerineast/human-pose-estimation.pytorch): Simple Baselines for Human Pose Estimation and Tracking.
 - [Image Duplication Detection](https://github.com/winnerineast/imagededup):imagededup is a python package that simplifies the task of finding exact and near duplicates in an image collection.
 - [Image Segmentation with Keras](https://github.com/winnerineast/image-segmentation-keras):Implementation of various Deep Image Segmentation models in keras.
 - [MedicalNet](https://github.com/winnerineast/MedicalNet):This repository contains a Pytorch implementation of Med3D: Transfer Learning for 3D Medical Image Analysis. Many studies have shown that the performance on deep learning is significantly affected by volume of training data. The MedicalNet project aggregated the dataset with diverse modalities, target organs, and pathologies to to build relatively large datasets. Based on this dataset, a series of 3D-ResNet pre-trained models and corresponding transfer-learning training code are provided.
-- [Mobilenet v3](https://github.com/winnerineast/mobilenetv3.pytorch):Reproduction of MobileNet V3 architecture as described in Searching for MobileNetV3 by Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang, Yukun Zhu, Ruoming Pang, Vijay Vasudevan, Quoc V. Le, Hartwig Adam on ILSVRC2012 benchmark with PyTorch framework.
+- [MobileNet SSD TensorRT](https://github.com/winnerineast/MobileNet-SSD-TensorRT):To accelerate mobileNet-ssd with tensorRT; TensorRT-Mobilenet-SSD can run 50fps on jetson tx2.
+- [Mobilenet_v3](https://github.com/winnerineast/mobilenet_v3):
+- [Mobilenet v3 with pytorch](https://github.com/winnerineast/mobilenetv3.pytorch):Reproduction of MobileNet V3 architecture as described in Searching for MobileNetV3 by Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang, Yukun Zhu, Ruoming Pang, Vijay Vasudevan, Quoc V. Le, Hartwig Adam on ILSVRC2012 benchmark with PyTorch framework.
 - [MOTS Tool](https://github.com/winnerineast/mots_tools):Tools for evaluating and visualizing results for the Multi Object Tracking and Segmentation (MOTS) task with algorithm TrackR-CNN.
 - [Multi-camera object tracking via transfering representation to top view](https://github.com/winnerineast/Multi-Camera-Object-Tracking-via-Transferring-Representation-to-Top-View):Transferring Representation to ‘Top View’ based on deep metric learning.
 - [Multi target tracker](https://github.com/winnerineast/Multitarget-tracker):multiple objects tracking model based on hungarian algorithm + Kalman filter.
@@ -221,7 +234,9 @@
 ## <a name="ComputerVisionFaceRecognition">Computer Vision Face Recognition</a>
 - [cnn face landmark](https://github.com/winnerineast/cnn-facial-landmark):Facial landmark detection based on convolution neural network.
 - [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition with pyTorch](https://github.com/winnerineast/cdp):Implementation of "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition" (CDP).
+- [face-detector-MTCNN](https://github.com/winnerineast/FaceDetector): pytorch implementation of inference and training stage of face detection algorithm described in: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks.
 - [FaceKit](https://github.com/winnerineast/FaceKit):Real-Time Rotation-Invariant Face Detection and Tracking (200FPS on CPU).
+- [face landmark](https://github.com/winnerineast/face_landmark_dnn):Facial landmark detection using Convolutional Neural Networks for Mobile Device.
 - [facenet](https://github.com/winnerineast/facenet): face recognition with Tensorflow.
 - [Face Recognition](https://github.com/winnerineast/face_recognition): a face recognition system based on dlib.
 - [face recognition framework](https://github.com/winnerineast/face_recognition_framework): This is a face recognition framework based on PyTorch with convenient training, evaluation and feature extraction functions. It is originally a multi-task face recognition framework for our accpeted ECCV 2018 paper, "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition". However, it is also a common framework for face recognition. You can freely customize your experiments with your data and configurations with it.
@@ -256,6 +271,7 @@
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
+#### 2019-12-03：pause at mobilenet_v3
 #### 2019-11-28: pause at videoflow.
 #### 2019-11-27: pause at cvat.
 #### 2019-11-26：pause at HarvestText.
