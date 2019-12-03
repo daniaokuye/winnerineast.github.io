@@ -14,7 +14,7 @@
 - [Recommendation System](#RecommendationSystem)
 - [NLP Data](#NLPData)
 - [Knowledge Graph](#KnowledgeGraph)
-- [Computer Vision Data](#ComputerVisionData)
+- [Computer Vision Data/Annotation Tools](#ComputerVisionData)
 - [Computer Vision Processing](#ComputerVisionProcessing)
 - [Computer Vison Algorithm](#ComputerVisionAlgorithm)
 - [Computer Vision Face Recognition](#ComputerVisionFaceRecognition)
@@ -40,6 +40,7 @@
 - [ccahce](https://github.com/winnerineast/ccache):ccache is a compiler cache. It speeds up recompilation by caching the result of previous compilations and detecting when the same compilation is being done again. Supported languages are C, C++, Objective-C and Objective-C++.
 - [cicada](https://github.com/winnerineast/cicada): Fast lightweight HTTP service framework.
 - [CMake](https://github.com/winnerineast/CMake):CMake is a cross-platform, open-source build system generator.
+- [gflag](https://github.com/winnerineast/gflags):The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at: https://gflags.github.io/gflags/.
 - [glog](https://github.com/winnerineast/glog): Google logging module in C++.
 - [gRPC](https://github.com/winnerineast/grpc):gRPC is a modern, open source, high-performance remote procedure call (RPC) framework that can run anywhere. gRPC enables client and server applications to communicate transparently, and simplifies the building of connected systems.
 - [guava](https://github.com/winnerineast/guava):Google Core Libraries for Java.
@@ -100,6 +101,7 @@
 
 ## <a name="MachineLearning">Machine Learning</a>
 - [autokeras](https://github.com/winnerineast/autokeras): Auto-Keras is an open source software library for automated machine learning (AutoML). 
+- [Invoice Process Automation](https://github.com/winnerineast/automation-repo): Process automation with Machine Learning.
 - [leecode](https://github.com/winnerineast/leetcode): Collection of Leecode websites.
 - [Machine Learning in Numpy](https://github.com/winnerineast/numpy-ml):Ever wish you had an inefficient but somewhat legible collection of machine learning algorithms implemented exclusively in numpy? No?
 - [xgboost](https://github.com/winnerineast/xgboost):XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.
@@ -120,6 +122,7 @@
 - [PaddlePaddle](https://github.com/winnerineast/Paddle):PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform, which is originally developed by Baidu scientists and engineers for the purpose of applying deep learning to many products at Baidu.
 - [plaidml](https://github.com/winnerineast/plaidml):PlaidML is an advanced and portable tensor compiler for enabling deep learning on laptops, embedded devices, or other devices where the available computing hardware is not well supported or the available software stack contains unpalatable license restrictions.
 - [pytorch](https://github.com/winnerineast/pytorch): PyTorch is a Python package that provides two high-level features: Tensor computation (like NumPy) with strong GPU acceleration;Deep neural networks built on a tape-based autograd system.
+- [pytorch-c++ extension](https://github.com/winnerineast/extension-cpp):C++ extension in PyTorch.
 - [pytorch-examples](https://github.com/winnerineast/pytorch-examples): PyTorch example codes.
 - [pytorch-vision](https://github.com/winnerineast/pytorch-vision): Algorithm for computer vision based on PyTorch.
 - [pytorch-tutorials](https://github.com/winnerineast/pytorch-tutorials):PyTorch tutorials.
@@ -128,6 +131,7 @@
 - [tensorflow](https://github.com/winnerineast/tensorflow): a famous deep learning platform from google.
 - [tensorflow-examples](https://github.com/winnerineast/examples): Tensorflow examples from official website.
 - [tensorflow-graphics](https://github.com/winnerineast/graphics):The last few years have seen a rise in novel differentiable graphics layers which can be inserted in neural network architectures. From spatial transformers to differentiable graphics renderers, these new layers leverage the knowledge acquired over years of computer vision and graphics research to build new and more efficient network architectures. Explicitly modeling geometric priors and constraints into neural networks opens up the door to architectures that can be trained robustly, efficiently, and more importantly, in a self-supervised fashion.
+- [tensorflow-models](https://github.com/winnerineast/models): Models built with tensorflow.
 - [Tensor Network](https://github.com/winnerineast/TensorNetwork):A tensor network wrapper for TensorFlow, JAX, and Numpy.
 - [tensorflow-model-optimization](https://github.com/winnerineast/model-optimization) Algorithm optimization with tensorflow.
 - [tfpyth](https://github.com/winnerineast/tfpyth): Putting Tensorflow back in PyTorch, back in Tensorflow.
@@ -172,8 +176,10 @@
 ## <a name="KnowledgeGraph">Knowledge Graph</a>
 - [Knowledge Graph Data](https://github.com/winnerineast/KnowledgeGraphData): So far the biggest chinese knowledge graphs data.
 
-## <a name="ComputerVisionData">Computer Vision Data</a>
+## <a name="ComputerVisionData">Computer Vision Data/Annotation Tools</a>
 - [COCO](https://github.com/winnerineast/cocoapi):COCO data access API.
+- [Point Cloud Library](https://github.com/winnerineast/pcl):The Point Cloud Library (PCL) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
+- [vott-microsoft](https://github.com/winnerineast/VoTT): An open source annotation and labeling tool for image and video assets.
 
 ## <a name="ComputerVisionProcessing">Computer Vision Processing</a>
 - [cvat](https://github.com/winnerineast/cvat):CVAT is completely re-designed and re-implemented version of Video Annotation Tool from Irvine, California tool. It is free, online, interactive video and image annotation tool for computer vision. It is being used by our team to annotate million of objects with different properties. Many UI and UX decisions are based on feedbacks from professional data annotation team.
@@ -184,6 +190,7 @@
 - [learnopencv](https://github.com/winnerineast/learnopencv):Learn OpenCV : C++ and Python Examples. You can find the details at LearnOpenCV.com.
 - [libvlcpp](https://github.com/winnerineast/libvlcpp):libVLC is the core engine and the interface to the multimedia framework on which VLC media player is based. This is a C++ binding.
 - [machinery](https://github.com/winnerineast/machinery):This is a framework used by Kerberos.io.
+- [matlab cv toolbox](https://github.com/winnerineast/toolbox): Piotr's Image & Video Matlab Toolbox.
 - [Micro RTSP](https://github.com/winnerineast/Micro-RTSP): A RTSP video server intended for very small CPUs(ESP32 etc).
 - [mmcv](https://github.com/winnerineast/mmcv): MMCV is a foundational python library for computer vision research and supports many research projects in MMLAB, such as MMDetection and MMAction.
 - [mmdetection](https://github.com/winnerineast/mmdetection): Open MMLab Detection Toolbox.
@@ -194,27 +201,36 @@
 - [RTSP Server](https://github.com/winnerineast/RtspServer): A RTSP server and pusher based on C++11.
 - [taichi](https://github.com/winnerineast/taichi):Taichi is an open-source computer graphics library that aims to provide easy-to-use infrastructures for computer graphics R&D. It's written in C++14 and wrapped friendly with Python.
 - [v4l2 rtsp server](https://github.com/winnerineast/v4l2rtspserver):RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9.
-- [videoflow](https://github.com/winnerineast/videoflow)Videoflow is a Python framework for video stream processing. The library is designed to facilitate easy and quick definition of computer vision stream processing applications. It empowers developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code. It contains off-the-shelf components for object detection, object tracking, human pose estimation, etc, and it is easy to extend with your own.
+- [videoflow](https://github.com/winnerineast/videoflow): Videoflow is a Python framework for video stream processing. The library is designed to facilitate easy and quick definition of computer vision stream processing applications. It empowers developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code. It contains off-the-shelf components for object detection, object tracking, human pose estimation, etc, and it is easy to extend with your own.
 - [video object removal](https://github.com/winnerineast/video-object-removal):Just draw a bounding box and you can remove the object you want to remove.
+- [vidgear](https://github.com/winnerineast/vidgear): VidGear provides a high-level All-in-One Video Processing framework build on top of OpenCV, PiCamera and FFmpeg. It's compact, simple to use and easy to extend.
 - [vlc](https://github.com/winnerineast/vlc):VLC is a popular libre and open source media player and multimedia engine, used by a large number of individuals, professionals, companies and institutions.
 - [youtube-dl](https://github.com/winnerineast/youtube-dl):youtube-dl - download videos from youtube.com or other video platforms.
 - [ZLMediaKit](https://github.com/winnerineast/ZLMediaKit): A lightweight ,high performance and stable stream server and client framework based on C++11.
+- [zoom learn zoom](https://github.com/winnerineast/zoom-learn-zoom):Code for CVPR 2019 paper: Zoom to Learn, Learn to Zoom.
 
 ## <a name="ComputerVisionAlgorithm">Computer Vison Algorithm</a>
 - [AlphaPose](https://github.com/winnerineast/AlphaPose):Alpha Pose is an accurate multi-person pose estimator, which is the first real-time open-source system that achieves 70+ mAP (72.3 mAP) on COCO dataset and 80+ mAP (82.1 mAP) on MPII dataset.** To match poses that correspond to the same person across frames, we also provide an efficient online pose tracker called Pose Flow. It is the first open-source online pose tracker that achieves both 60+ mAP (66.5 mAP) and 50+ MOTA (58.3 MOTA) on PoseTrack Challenge dataset.
 - [Aquila](https://github.com/winnerineast/aquila): Aquila is an app-level framework to process multimedia, aims to unify the different middleware SDK on generic level. It mainly support software encoding and decoding on CPU, and easily porting. It can be used on video surveillance, ipcam or drone.
+- [c-3-framework](https://github.com/winnerineast/C-3-Framework):An open-source PyTorch code for crowd counting.
 - [Densebody](https://github.com/winnerineast/densebody_pytorch): PyTorch implementation of CloudWalk's recent paper DenseBody from images to 3D models.
 - [detectron2](https://github.com/winnerineast/detectron2):Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms. It is a ground-up rewrite of the previous version, Detectron, and it originates from maskrcnn-benchmark.
+- [EDVR - merged into MMSR](https://github.com/winnerineast/EDVR):MMSR is an open source image and video super-resolution toolbox based on PyTorch. It is a part of the open-mmlab project developed by Multimedia Laboratory, CUHK. MMSR is based on our previous projects: BasicSR, ESRGAN, and EDVR.
 - [Everybody Dance Now with PyTorch](https://github.com/winnerineast/everybody_dance_now_pytorch): A PyTorch implementation of "Everybody Dance Now" from Berkeley AI lab. Including all functionality except pose normalization.
+- [Everybody Dance Now with Temporal FaceGAN](https://github.com/winnerineast/EverybodyDanceNow-Temporal-FaceGAN):Another implementation.
 - [Kalman Filter for Multiple Objects Tracking](https://github.com/winnerineast/kalman_filter_multi_object_tracking):Multiple object tracking using Kalman Filter and Hungarian Algorithm - OpenCV.
 - [Hand Track JS](https://github.com/winnerineast/handtrack.js):Handtrack.js is a library for prototyping realtime hand detection (bounding box), directly in the browser. Underneath, it uses a trained convolutional neural network that provides bounding box predictions for the location of hands in an image. The convolutional neural network (ssdlite, mobilenetv2) is trained using the tensorflow object detection api.
 - [human pose estimation with pytorch](https://github.com/winnerineast/human-pose-estimation.pytorch): Simple Baselines for Human Pose Estimation and Tracking.
 - [Image Duplication Detection](https://github.com/winnerineast/imagededup):imagededup is a python package that simplifies the task of finding exact and near duplicates in an image collection.
 - [Image Segmentation with Keras](https://github.com/winnerineast/image-segmentation-keras):Implementation of various Deep Image Segmentation models in keras.
 - [MedicalNet](https://github.com/winnerineast/MedicalNet):This repository contains a Pytorch implementation of Med3D: Transfer Learning for 3D Medical Image Analysis. Many studies have shown that the performance on deep learning is significantly affected by volume of training data. The MedicalNet project aggregated the dataset with diverse modalities, target organs, and pathologies to to build relatively large datasets. Based on this dataset, a series of 3D-ResNet pre-trained models and corresponding transfer-learning training code are provided.
+- [MMSR](https://github.com/winnerineast/mmsr): MMSR is an open source image and video super-resolution toolbox based on PyTorch. It is a part of the open-mmlab project developed by Multimedia Laboratory, CUHK. MMSR is based on our previous projects: BasicSR, ESRGAN, and EDVR.
+- [Mobilenet collection](https://github.com/winnerineast/mobilenets): a collection of various mobilenets.
 - [MobileNet SSD TensorRT](https://github.com/winnerineast/MobileNet-SSD-TensorRT):To accelerate mobileNet-ssd with tensorRT; TensorRT-Mobilenet-SSD can run 50fps on jetson tx2.
-- [Mobilenet_v3](https://github.com/winnerineast/mobilenet_v3):
+- [Mobilenet v2 with pytorch](https://github.com/winnerineast/mobilenetv2.pytorch): version 2 and fyi.
+- [Mobilenet_v3](https://github.com/winnerineast/mobilenet_v3):one of implementation of mobilenet v3.
 - [Mobilenet v3 with pytorch](https://github.com/winnerineast/mobilenetv3.pytorch):Reproduction of MobileNet V3 architecture as described in Searching for MobileNetV3 by Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang, Yukun Zhu, Ruoming Pang, Vijay Vasudevan, Quoc V. Le, Hartwig Adam on ILSVRC2012 benchmark with PyTorch framework.
+- [Mobilenet v3 with pytorch](https://github.com/winnerineast/pytorch-mobilenet-v3): MobileNet V3 in PyTorch and ImageNet pre-trained models.
 - [MOTS Tool](https://github.com/winnerineast/mots_tools):Tools for evaluating and visualizing results for the Multi Object Tracking and Segmentation (MOTS) task with algorithm TrackR-CNN.
 - [Multi-camera object tracking via transfering representation to top view](https://github.com/winnerineast/Multi-Camera-Object-Tracking-via-Transferring-Representation-to-Top-View):Transferring Representation to ‘Top View’ based on deep metric learning.
 - [Multi target tracker](https://github.com/winnerineast/Multitarget-tracker):multiple objects tracking model based on hungarian algorithm + Kalman filter.
@@ -224,6 +240,7 @@
 - [OpenPost Unity Plugin](https://github.com/winnerineast/openpose_unity_plugin):OpenPose Unity Plugin is a wrapper of the OpenPose library for Unity users. It provides formatted OpenPose output and some examples. OpenPose is a real-time multi-person system able to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.
 - [OpenPose Plus](https://github.com/winnerineast/openpose-plus): High-Performance and Flexible Pose Estimation Framework using TensorFlow, OpenPose and TensorRT.
 - [SC SfMLearner](https://github.com/winnerineast/SC-SfMLearner-Release): the implementation for paper: Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video.
+- [SiamRPN++ with PyTorch](https://github.com/winnerineast/SiamRPN_plus_plus_PyTorch): This is an unofficial PyTorch implementation of SiamRPN++ (CVPR2019), implemented by Peng Xu and Jin Feng. Our training can be conducted on multi-GPUs, and use LMDB data format to speed up the data loading.
 - [TorchCV](https://github.com/winnerineast/torchcv): A pyTorch-based framework for deep learning algorithms in computer vision.
 - [Track R-CNN](https://github.com/winnerineast/TrackR-CNN):Code for the TrackR-CNN baseline for the Multi Object Tracking and Segmentation (MOTS) task.
 - [votenet](https://github.com/winnerineast/votenet): Deep Hough Voting for 3D Object Detection in Point Clouds.
@@ -271,7 +288,7 @@
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
-#### 2019-12-03：pause at mobilenet_v3
+#### 2019-12-03：pause at labelme.
 #### 2019-11-28: pause at videoflow.
 #### 2019-11-27: pause at cvat.
 #### 2019-11-26：pause at HarvestText.
