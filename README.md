@@ -105,6 +105,7 @@
 - [yacy](https://github.com/winnerineast/yacy_search_server):YaCy is a search engine software. It takes a new approach to search because it does not use a central server. Instead, its search results come from a network of independent peers. In such a distributed network, no single entity decides what gets listed, or in which order results appear.
 
 ## <a name="MachineLearning">Machine Learning</a>
+- [Alink](https://github.com/winnerineast/Alink): Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform.
 - [autokeras](https://github.com/winnerineast/autokeras): Auto-Keras is an open source software library for automated machine learning (AutoML). 
 - [Invoice Process Automation](https://github.com/winnerineast/automation-repo): Process automation with Machine Learning.
 - [leecode](https://github.com/winnerineast/leetcode): Collection of Leecode websites.
@@ -184,6 +185,7 @@
 ## <a name="ComputerVisionData">Computer Vision Data/Annotation Tools</a>
 - [COCO](https://github.com/winnerineast/cocoapi):COCO data access API.
 - [labelme](https://github.com/winnerineast/labelme): Labelme is a graphical image annotation tool inspired by http://labelme.csail.mit.edu.
+- [labelmg](https://github.com/winnerineast/labelImg): LabelImg is a graphical image annotation tool. It is written in Python and uses Qt for its graphical interface.
 - [panoptic API](https://github.com/winnerineast/panopticapi):COCO 2018 Panoptic Segmentation Task API (Beta version).
 - [Point Cloud Library](https://github.com/winnerineast/pcl):The Point Cloud Library (PCL) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
 - [vott-microsoft](https://github.com/winnerineast/VoTT): An open source annotation and labeling tool for image and video assets.
@@ -299,7 +301,7 @@
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
-#### 2019-12-04: pause at CodeSplitJava.
+#### 2019-12-04: pause at Ghidra.
 #### 2019-12-03：pause at labelme.
 #### 2019-11-28: pause at videoflow.
 #### 2019-11-27: pause at cvat.
