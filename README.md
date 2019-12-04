@@ -65,6 +65,10 @@
 - [AoE](https://github.com/winnerineast/AoE): it's an IRE for IoT.
 - [ClickHouse](https://github.com/winnerineast/ClickHouse);a free analytic DBMS for big data.
 - [gear lib](https://github.com/winnerineast/gear-lib): a collection of basic libraries for IoT.
+- [k3s](https://github.com/winnerineast/k3s): a lightweight k8s for IoT.
+- [nifi](https://github.com/winnerineast/nifi): Apache NiFI is a IoT workflow builder.
+- [nifi-minifi-cpp](https://github.com/winnerineast/nifi-minifi-cpp): CPP version of Minifi.
+- [nifi-minifi-java](https://github.com/winnerineast/nifi-minifi): Java version of Minifi.
 - [Nodered](https://github.com/winnerineast/node-red): A visual tool for wiring the internet of things.
 - [rCore](https://github.com/winnerineast/rCore): a IoT OS used for education.
 - [rt-thread](https://github.com/winnerineast/rt-thread):RT-Thread is an open source IoT operating system from China, which has strong scalability: from a tiny kernel running on a tiny core, for example ARM Cortex-M0, or Cortex-M3/4/7, to a rich feature system running on MIPS32, ARM Cortex-A8, ARM Cortex-A9 DualCore etc.
@@ -90,6 +94,7 @@
 - [manimnx](https://github.com/winnerineast/manimnx):Interface between networkx and manim.
 - [Netron](https://github.com/winnerineast/Netron): Netron is a viewer for neural network, deep learning and machine learning models.
 - [ngx-admin](https://github.com/winnerineast/ngx-admin): Admin template based on Angular 8+ and Nebular.
+- [PySnooper](https://github.com/winnerineast/PySnooper): a python debugger better than print.
 - [SandDance](https://github.com/winnerineast/SandDance): Visually explore, understand, and present your data.
 - [tabler](https://github.com/winnerineast/tabler):Premium and Open Source dashboard template with responsive and high-quality UI.
 
@@ -178,6 +183,8 @@
 
 ## <a name="ComputerVisionData">Computer Vision Data/Annotation Tools</a>
 - [COCO](https://github.com/winnerineast/cocoapi):COCO data access API.
+- [labelme](https://github.com/winnerineast/labelme): Labelme is a graphical image annotation tool inspired by http://labelme.csail.mit.edu.
+- [panoptic API](https://github.com/winnerineast/panopticapi):COCO 2018 Panoptic Segmentation Task API (Beta version).
 - [Point Cloud Library](https://github.com/winnerineast/pcl):The Point Cloud Library (PCL) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
 - [vott-microsoft](https://github.com/winnerineast/VoTT): An open source annotation and labeling tool for image and video assets.
 
@@ -213,6 +220,7 @@
 - [AlphaPose](https://github.com/winnerineast/AlphaPose):Alpha Pose is an accurate multi-person pose estimator, which is the first real-time open-source system that achieves 70+ mAP (72.3 mAP) on COCO dataset and 80+ mAP (82.1 mAP) on MPII dataset.** To match poses that correspond to the same person across frames, we also provide an efficient online pose tracker called Pose Flow. It is the first open-source online pose tracker that achieves both 60+ mAP (66.5 mAP) and 50+ MOTA (58.3 MOTA) on PoseTrack Challenge dataset.
 - [Aquila](https://github.com/winnerineast/aquila): Aquila is an app-level framework to process multimedia, aims to unify the different middleware SDK on generic level. It mainly support software encoding and decoding on CPU, and easily porting. It can be used on video surveillance, ipcam or drone.
 - [c-3-framework](https://github.com/winnerineast/C-3-Framework):An open-source PyTorch code for crowd counting.
+- [darknet](https://github.com/winnerineast/darknet):Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 - [Densebody](https://github.com/winnerineast/densebody_pytorch): PyTorch implementation of CloudWalk's recent paper DenseBody from images to 3D models.
 - [detectron2](https://github.com/winnerineast/detectron2):Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms. It is a ground-up rewrite of the previous version, Detectron, and it originates from maskrcnn-benchmark.
 - [EDVR - merged into MMSR](https://github.com/winnerineast/EDVR):MMSR is an open source image and video super-resolution toolbox based on PyTorch. It is a part of the open-mmlab project developed by Multimedia Laboratory, CUHK. MMSR is based on our previous projects: BasicSR, ESRGAN, and EDVR.
@@ -232,6 +240,7 @@
 - [Mobilenet v3 with pytorch](https://github.com/winnerineast/mobilenetv3.pytorch):Reproduction of MobileNet V3 architecture as described in Searching for MobileNetV3 by Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang, Yukun Zhu, Ruoming Pang, Vijay Vasudevan, Quoc V. Le, Hartwig Adam on ILSVRC2012 benchmark with PyTorch framework.
 - [Mobilenet v3 with pytorch](https://github.com/winnerineast/pytorch-mobilenet-v3): MobileNet V3 in PyTorch and ImageNet pre-trained models.
 - [MOTS Tool](https://github.com/winnerineast/mots_tools):Tools for evaluating and visualizing results for the Multi Object Tracking and Segmentation (MOTS) task with algorithm TrackR-CNN.
+- [MTCNN](https://github.com/winnerineast/MTCNN): This work is used for reproduce MTCNN,a Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks.
 - [Multi-camera object tracking via transfering representation to top view](https://github.com/winnerineast/Multi-Camera-Object-Tracking-via-Transferring-Representation-to-Top-View):Transferring Representation to ‘Top View’ based on deep metric learning.
 - [Multi target tracker](https://github.com/winnerineast/Multitarget-tracker):multiple objects tracking model based on hungarian algorithm + Kalman filter.
 - [NAS-FPN-Tensorflow](https://github.com/winnerineast/NAS_FPN_Tensorflow):Learning Scalable Feature Pyramid Architecture for Object Detection with Tensorflow.
@@ -241,12 +250,14 @@
 - [OpenPose Plus](https://github.com/winnerineast/openpose-plus): High-Performance and Flexible Pose Estimation Framework using TensorFlow, OpenPose and TensorRT.
 - [SC SfMLearner](https://github.com/winnerineast/SC-SfMLearner-Release): the implementation for paper: Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video.
 - [SiamRPN++ with PyTorch](https://github.com/winnerineast/SiamRPN_plus_plus_PyTorch): This is an unofficial PyTorch implementation of SiamRPN++ (CVPR2019), implemented by Peng Xu and Jin Feng. Our training can be conducted on multi-GPUs, and use LMDB data format to speed up the data loading.
+- [Salient Object Detection](https://github.com/winnerineast/SODsurvey):Salient Object Detection in the Deep Learning Era.
 - [TorchCV](https://github.com/winnerineast/torchcv): A pyTorch-based framework for deep learning algorithms in computer vision.
 - [Track R-CNN](https://github.com/winnerineast/TrackR-CNN):Code for the TrackR-CNN baseline for the Multi Object Tracking and Segmentation (MOTS) task.
 - [votenet](https://github.com/winnerineast/votenet): Deep Hough Voting for 3D Object Detection in Point Clouds.
 - [Yog AI](https://github.com/winnerineast/YogAI):YogAI is a responsive virtual yoga instructor using pose estimation to guide and correct a yogi that runs on a raspberry pi smart mirror.
 - [yolact](https://github.com/winnerineast/yolact):A simple, fully convolutional model for real-time instance segmentation.
 - [yolov3 with keras](https://github.com/winnerineast/keras-yolo3):A Keras implementation of YOLOv3 (Tensorflow backend) inspired by allanzelener/YAD2K.
+- [yolov3 with pytorch](https://github.com/winnerineast/pytorch-yolo3): a good implementation of YOLOv3 with PyTorch in MacOS.
 
 ## <a name="ComputerVisionFaceRecognition">Computer Vision Face Recognition</a>
 - [cnn face landmark](https://github.com/winnerineast/cnn-facial-landmark):Facial landmark detection based on convolution neural network.
@@ -288,6 +299,7 @@
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
+#### 2019-12-04: pause at CodeSplitJava.
 #### 2019-12-03：pause at labelme.
 #### 2019-11-28: pause at videoflow.
 #### 2019-11-27: pause at cvat.
