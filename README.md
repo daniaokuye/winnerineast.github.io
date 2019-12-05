@@ -40,7 +40,10 @@
 - [ccahce](https://github.com/winnerineast/ccache):ccache is a compiler cache. It speeds up recompilation by caching the result of previous compilations and detecting when the same compilation is being done again. Supported languages are C, C++, Objective-C and Objective-C++.
 - [cicada](https://github.com/winnerineast/cicada): Fast lightweight HTTP service framework.
 - [CMake](https://github.com/winnerineast/CMake):CMake is a cross-platform, open-source build system generator.
+- [flink](https://github.com/winnerineast/flink): a famous data stream processing framework.
+- [flogo](https://github.com/winnerineast/flogo): Project Flogo is an ultra-light, Go-based open source ecosystem for building event-driven apps. Event-driven, you say? Yup, the notion of triggers and actions are leveraged to process incoming events. An action, a common interface, exposes key capabilities such as application integration, stream processing, etc.
 - [gflag](https://github.com/winnerineast/gflags):The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at: https://gflags.github.io/gflags/.
+- [ghidra](https://github.com/winnerineast/ghidra):Ghidra is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra plug-in components and/or scripts using Java or Python.
 - [glog](https://github.com/winnerineast/glog): Google logging module in C++.
 - [gRPC](https://github.com/winnerineast/grpc):gRPC is a modern, open source, high-performance remote procedure call (RPC) framework that can run anywhere. gRPC enables client and server applications to communicate transparently, and simplifies the building of connected systems.
 - [guava](https://github.com/winnerineast/guava):Google Core Libraries for Java.
@@ -59,6 +62,7 @@
 - [rke](https://github.com/winnerineast/rke):Rancher Kubernetes Engine, an extremely simple, lightning fast Kubernetes installer that works everywhere.
 - [scope](https://github.com/winnerineast/scope): Weave Scope automatically generates a map of your application, enabling you to intuitively understand, monitor, and control your containerized, microservices-based application.
 - [Spring Boot Demo](https://github.com/winnerineast/spring-boot-demo): a collection of demos for Spring Boot.
+- [the practical linux hardening guide](https://github.com/winnerineast/the-practical-linux-hardening-guide): this guide is for linux os hardening when it goes to production.
 - [v8](https://github.com/winnerineast/v8): Java Script Engine.
 
 ## <a name="IoT">IoT</a>
@@ -117,6 +121,7 @@
 
 ## <a name="DeepLearningPlatform">Deep Learning Platform</a>
 - [angel](https://github.com/winnerineast/angel):This project Angel is a high-performance distributed machine learning platform based on the philosophy of Parameter Server. It is tuned for performance with big data from Tencent and has a wide range of applicability and stability, demonstrating increasing advantage in handling higher dimension model. Angel is jointly developed by Tencent and Peking University, taking account of both high availability in industry and innovation in academia. Angel is developed with Java and Scala. It supports running on Yarn and Kubernetes. With the PS Service abstraction, it provides two modules, namely Spark on Angel and Pytorch on Angel separately, which enable integrate the power of Spark/PyTorch and Parameter Server for distributed training. Graph Computing and deep learning frameworks support is under development and will be released in the future.
+- [caffe from NVIDIA](https://github.com/winnerineast/NVIDIA-caffe): caffe + NVIDIA and no more comment.
 - [keras](https://github.com/winnerineast/keras):Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
 - [keras-contrib](https://github.com/winnerineast/keras-contrib):Keras Community Contributions.
 - [keras-preprocessing](https://github.com/winnerineast/keras-preprocessing):Keras Preprocessing is the data preprocessing and data augmentation module of the Keras deep learning library. It provides utilities for working with image data, text data, and sequence data.
@@ -126,6 +131,7 @@
 - [OpenVINO Toolkit Open Model Zoo](https://github.com/winnerineast/open_model_zoo):This repository includes optimized deep learning models and a set of demos to expedite development of high-performance deep learning inference applications. Use these free pre-trained models instead of training your own models to speed-up the development and production deployment process.
 - [OpenVINO Training Extensions](https://github.com/winnerineast/openvino_training_extensions): OpenVINO Training Extensions provide a convenient environment to train Deep Learning models and convert them using OpenVINO™ Toolkit for optimized inference.
 - [PaddlePaddle](https://github.com/winnerineast/Paddle):PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform, which is originally developed by Baidu scientists and engineers for the purpose of applying deep learning to many products at Baidu.
+- [pai](https://github.com/winnerineast/pai): a Microsoft AI resource and cluster management framework.
 - [plaidml](https://github.com/winnerineast/plaidml):PlaidML is an advanced and portable tensor compiler for enabling deep learning on laptops, embedded devices, or other devices where the available computing hardware is not well supported or the available software stack contains unpalatable license restrictions.
 - [pytorch](https://github.com/winnerineast/pytorch): PyTorch is a Python package that provides two high-level features: Tensor computation (like NumPy) with strong GPU acceleration;Deep neural networks built on a tape-based autograd system.
 - [pytorch-c++ extension](https://github.com/winnerineast/extension-cpp):C++ extension in PyTorch.
@@ -188,6 +194,7 @@
 - [labelmg](https://github.com/winnerineast/labelImg): LabelImg is a graphical image annotation tool. It is written in Python and uses Qt for its graphical interface.
 - [panoptic API](https://github.com/winnerineast/panopticapi):COCO 2018 Panoptic Segmentation Task API (Beta version).
 - [Point Cloud Library](https://github.com/winnerineast/pcl):The Point Cloud Library (PCL) is a standalone, large scale, open project for 2D/3D image and point cloud processing.
+- [snorkel](https://github.com/winnerineast/snorkel):Snorkel is a system for rapidly creating, modeling, and managing training data. Today's state-of-the-art machine learning models require massive labeled training sets--which usually do not exist for real-world applications. Instead, Snorkel is based around the new data programming paradigm, in which the developer focuses on writing a set of labeling functions, which are just scripts that programmatically label data. The resulting labels are noisy, but Snorkel automatically models this process—learning, essentially, which labeling functions are more accurate than others—and then uses this to train an end model (for example, a deep neural network in TensorFlow).
 - [vott-microsoft](https://github.com/winnerineast/VoTT): An open source annotation and labeling tool for image and video assets.
 
 ## <a name="ComputerVisionProcessing">Computer Vision Processing</a>
@@ -222,8 +229,10 @@
 - [AlphaPose](https://github.com/winnerineast/AlphaPose):Alpha Pose is an accurate multi-person pose estimator, which is the first real-time open-source system that achieves 70+ mAP (72.3 mAP) on COCO dataset and 80+ mAP (82.1 mAP) on MPII dataset.** To match poses that correspond to the same person across frames, we also provide an efficient online pose tracker called Pose Flow. It is the first open-source online pose tracker that achieves both 60+ mAP (66.5 mAP) and 50+ MOTA (58.3 MOTA) on PoseTrack Challenge dataset.
 - [Aquila](https://github.com/winnerineast/aquila): Aquila is an app-level framework to process multimedia, aims to unify the different middleware SDK on generic level. It mainly support software encoding and decoding on CPU, and easily porting. It can be used on video surveillance, ipcam or drone.
 - [c-3-framework](https://github.com/winnerineast/C-3-Framework):An open-source PyTorch code for crowd counting.
+- [curve GCN](https://github.com/winnerineast/curve-gcn):This is the official PyTorch implementation of Curve-GCN (CVPR 2019). This repository allows you to train new Curve-GCN models.
 - [darknet](https://github.com/winnerineast/darknet):Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
 - [Densebody](https://github.com/winnerineast/densebody_pytorch): PyTorch implementation of CloudWalk's recent paper DenseBody from images to 3D models.
+- [detectron](https://github.com/winnerineast/Detectron) version 1 fyi merely when we have version 2.
 - [detectron2](https://github.com/winnerineast/detectron2):Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms. It is a ground-up rewrite of the previous version, Detectron, and it originates from maskrcnn-benchmark.
 - [EDVR - merged into MMSR](https://github.com/winnerineast/EDVR):MMSR is an open source image and video super-resolution toolbox based on PyTorch. It is a part of the open-mmlab project developed by Multimedia Laboratory, CUHK. MMSR is based on our previous projects: BasicSR, ESRGAN, and EDVR.
 - [Everybody Dance Now with PyTorch](https://github.com/winnerineast/everybody_dance_now_pytorch): A PyTorch implementation of "Everybody Dance Now" from Berkeley AI lab. Including all functionality except pose normalization.
@@ -250,9 +259,11 @@
 - [OpenPose Training Code](https://github.com/winnerineast/openpose_train): OpenPose training codes.
 - [OpenPost Unity Plugin](https://github.com/winnerineast/openpose_unity_plugin):OpenPose Unity Plugin is a wrapper of the OpenPose library for Unity users. It provides formatted OpenPose output and some examples. OpenPose is a real-time multi-person system able to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.
 - [OpenPose Plus](https://github.com/winnerineast/openpose-plus): High-Performance and Flexible Pose Estimation Framework using TensorFlow, OpenPose and TensorRT.
+- [pysot-toolkit](https://github.com/winnerineast/pysot-toolkit): The purpose of this repo is to provide evaluation API of Current Single Object Tracking Dataset, including VOT2016;VOT2018;VOT2018-LT;OTB100(OTB2015);UAV123;NFS;LaSOT.
+- [Salient Object Detection](https://github.com/winnerineast/SODsurvey):Salient Object Detection in the Deep Learning Era.
 - [SC SfMLearner](https://github.com/winnerineast/SC-SfMLearner-Release): the implementation for paper: Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video.
 - [SiamRPN++ with PyTorch](https://github.com/winnerineast/SiamRPN_plus_plus_PyTorch): This is an unofficial PyTorch implementation of SiamRPN++ (CVPR2019), implemented by Peng Xu and Jin Feng. Our training can be conducted on multi-GPUs, and use LMDB data format to speed up the data loading.
-- [Salient Object Detection](https://github.com/winnerineast/SODsurvey):Salient Object Detection in the Deep Learning Era.
+- [simple fasteer rcnn implementation in pytorch](https://github.com/winnerineast/simple-faster-rcnn-pytorch): A Simple and Fast Implementation of Faster R-CNN
 - [TorchCV](https://github.com/winnerineast/torchcv): A pyTorch-based framework for deep learning algorithms in computer vision.
 - [Track R-CNN](https://github.com/winnerineast/TrackR-CNN):Code for the TrackR-CNN baseline for the Multi Object Tracking and Segmentation (MOTS) task.
 - [votenet](https://github.com/winnerineast/votenet): Deep Hough Voting for 3D Object Detection in Point Clouds.
@@ -264,14 +275,18 @@
 ## <a name="ComputerVisionFaceRecognition">Computer Vision Face Recognition</a>
 - [cnn face landmark](https://github.com/winnerineast/cnn-facial-landmark):Facial landmark detection based on convolution neural network.
 - [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition with pyTorch](https://github.com/winnerineast/cdp):Implementation of "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition" (CDP).
+- [face authentication in MPMC S4 project](https://github.com/winnerineast/face-authenication): a sample project.
+- [Face Detection with DSFD](https://github.com/winnerineast/FaceDetection-DSFD): This paper is accepted by CVPR 2019. In this paper, we propose a novel face detection network, named DSFD, with superior performance over the state-of-the-art face detectors. You can use the code to evaluate our DSFD for face detection.
 - [face-detector-MTCNN](https://github.com/winnerineast/FaceDetector): pytorch implementation of inference and training stage of face detection algorithm described in: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks.
 - [FaceKit](https://github.com/winnerineast/FaceKit):Real-Time Rotation-Invariant Face Detection and Tracking (200FPS on CPU).
 - [face landmark](https://github.com/winnerineast/face_landmark_dnn):Facial landmark detection using Convolutional Neural Networks for Mobile Device.
+- [facr_landmark_factory](https://github.com/winnerineast/face_landmark_factory):[facial-landmark-factory] (https://github.com/songhengyang/face_landmark_factory) is a production system of facial landmark detector written in Python, using Tensorflow r1.13 and subsequent high-level components Keras and Data. Users can use the built-in detection model of this system to process images and video data containing human faces, and conveniently implement functions such as automatic annotation of facial landmark, manual correction of landmark points, conversion of data format, and model training of facial landmark detection. Finally, it is possible to quickly generate a customized model of facial landmark detection suitable for a designated application scenario.
 - [facenet](https://github.com/winnerineast/facenet): face recognition with Tensorflow.
 - [Face Recognition](https://github.com/winnerineast/face_recognition): a face recognition system based on dlib.
 - [face recognition framework](https://github.com/winnerineast/face_recognition_framework): This is a face recognition framework based on PyTorch with convenient training, evaluation and feature extraction functions. It is originally a multi-task face recognition framework for our accpeted ECCV 2018 paper, "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition". However, it is also a common framework for face recognition. You can freely customize your experiments with your data and configurations with it.
 - [FRCore](https://github.com/winnerineast/FRCore):this is to show the capability of FR.
 - [insightface](https://github.com/winnerineast/insightface): Face Analysis Project on MXNet.
+- [libfacedetection](https://github.com/winnerineast/libfacedetection): This is an open source library for CNN-based face detection in images. The CNN model has been converted to static variables in C source files. The source code does not depend on any other libraries. What you need is just a C++ compiler. You can compile the source code under Windows, Linux, ARM and any platform with a C++ compiler.
 - [Menpo BenchMark](https://github.com/winnerineast/MenpoBenchmark): Multi-pose 2D and 3D Face Alignment and Tracking.
 - [MobileFace](https://github.com/winnerineast/MobileFace):A face recognition solution on mobile device.
 - [SeetaFace2](https://github.com/winnerineast/SeetaFace2): a set of FRS including face detector, face landmarker, face recognizer.
@@ -297,10 +312,12 @@
 - [Weight Agnostic Neural Networks](https://github.com/winnerineast/weightagnostic.github.io): Not all neural network architectures are created equal, some perform much better than others for certain tasks. But how important are the weight parameters of a neural network compared to its architecture? In this work, we question to what extent neural network architectures alone, without learning any weight parameters, can encode solutions for a given task. We propose a search method for neural network architectures that can already perform a task without any explicit weight training. To evaluate these networks, we populate the connections with a single shared weight parameter sampled from a uniform random distribution, and measure the expected performance. We demonstrate that our method can find minimal neural network architectures that can perform several reinforcement learning tasks without weight training. On supervised learning domain, we find architectures that can achieve much higher than chance accuracy on MNIST using random weights.
 
 ## <a name="Needtofurtherprocesstheserepos">Need to further process these repos</a>
+- [deep learning 1](https://github.com/winnerineast/Deep-Learning-1)
 - [paper collections and codes](https://github.com/winnerineast/handong1587.github.io)
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
+#### 2019-12-05: pause at tensorflow-nvJetson.
 #### 2019-12-04: pause at Ghidra.
 #### 2019-12-03：pause at labelme.
 #### 2019-11-28: pause at videoflow.
