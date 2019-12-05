@@ -79,6 +79,7 @@
 - [TDengine](https://github.com/winnerineast/TDengine):TDengine is an open-sourced big data platform under GNU AGPL v3.0, designed and optimized for the Internet of Things (IoT), Connected Cars, Industrial IoT, and IT Infrastructure and Application Monitoring. 
 - [Tengine](https://github.com/winnerineast/Tengine): Tengine, developed by OPEN AI LAB, is a lite, high-performance, and modular inference engine for embedded device.
 - [TencentOS-Tiny](https://github.com/winnerineast/TencentOS-tiny): Tecent IoT OS.
+- [Tensorflow nvJetson](https://github.com/winnerineast/tensorflow-nvJetson):TensorFlow for Nvidia Jetson TX1/TX2.
 
 ## <a name="VisualizationTools">Visualization Tools</a>
 - [AdminLTE](https://github.com/winnerineast/AdminLTE):AdminLTE -- is a fully responsive admin template. Based on Bootstrap 3 & 4 framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. 
@@ -132,6 +133,7 @@
 - [OpenVINO Training Extensions](https://github.com/winnerineast/openvino_training_extensions): OpenVINO Training Extensions provide a convenient environment to train Deep Learning models and convert them using OpenVINO™ Toolkit for optimized inference.
 - [PaddlePaddle](https://github.com/winnerineast/Paddle):PaddlePaddle (PArallel Distributed Deep LEarning) is an easy-to-use, efficient, flexible and scalable deep learning platform, which is originally developed by Baidu scientists and engineers for the purpose of applying deep learning to many products at Baidu.
 - [pai](https://github.com/winnerineast/pai): a Microsoft AI resource and cluster management framework.
+- [pipeline](https://github.com/winnerineast/pipeline):KubeFlow + TensorFlow Extended (TFX) + Airflow Workshop.
 - [plaidml](https://github.com/winnerineast/plaidml):PlaidML is an advanced and portable tensor compiler for enabling deep learning on laptops, embedded devices, or other devices where the available computing hardware is not well supported or the available software stack contains unpalatable license restrictions.
 - [pytorch](https://github.com/winnerineast/pytorch): PyTorch is a Python package that provides two high-level features: Tensor computation (like NumPy) with strong GPU acceleration;Deep neural networks built on a tape-based autograd system.
 - [pytorch-c++ extension](https://github.com/winnerineast/extension-cpp):C++ extension in PyTorch.
@@ -263,6 +265,7 @@
 - [Salient Object Detection](https://github.com/winnerineast/SODsurvey):Salient Object Detection in the Deep Learning Era.
 - [SC SfMLearner](https://github.com/winnerineast/SC-SfMLearner-Release): the implementation for paper: Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video.
 - [SiamRPN++ with PyTorch](https://github.com/winnerineast/SiamRPN_plus_plus_PyTorch): This is an unofficial PyTorch implementation of SiamRPN++ (CVPR2019), implemented by Peng Xu and Jin Feng. Our training can be conducted on multi-GPUs, and use LMDB data format to speed up the data loading.
+- [simpledet](https://github.com/winnerineast/simpledet):SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition.
 - [simple fasteer rcnn implementation in pytorch](https://github.com/winnerineast/simple-faster-rcnn-pytorch): A Simple and Fast Implementation of Faster R-CNN
 - [TorchCV](https://github.com/winnerineast/torchcv): A pyTorch-based framework for deep learning algorithms in computer vision.
 - [Track R-CNN](https://github.com/winnerineast/TrackR-CNN):Code for the TrackR-CNN baseline for the Multi Object Tracking and Segmentation (MOTS) task.
@@ -317,7 +320,7 @@
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
-#### 2019-12-05: pause at tensorflow-nvJetson.
+#### 2019-12-05: pause at iFogSim.
 #### 2019-12-04: pause at Ghidra.
 #### 2019-12-03：pause at labelme.
 #### 2019-11-28: pause at videoflow.
