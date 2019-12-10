@@ -69,6 +69,9 @@
 - [AoE](https://github.com/winnerineast/AoE): it's an IRE for IoT.
 - [ClickHouse](https://github.com/winnerineast/ClickHouse);a free analytic DBMS for big data.
 - [gear lib](https://github.com/winnerineast/gear-lib): a collection of basic libraries for IoT.
+- [iFogSim](https://github.com/winnerineast/iFogSim):A Toolkit for Modeling and Simulation of Resource Management Techniques in Internet of Things, Edge and Fog Computing Environments.
+- [iFogSim Tutorial](https://github.com/winnerineast/iFogSimTutorials): the tutorial of iFogSim.
+- [jetson inference](https://github.com/winnerineast/jetson-inference): This repo uses NVIDIA TensorRT for efficiently deploying neural networks onto the embedded platform, improving performance and power efficiency using graph optimizations, kernel fusion, and half-precision FP16 on the Jetson.
 - [k3s](https://github.com/winnerineast/k3s): a lightweight k8s for IoT.
 - [nifi](https://github.com/winnerineast/nifi): Apache NiFI is a IoT workflow builder.
 - [nifi-minifi-cpp](https://github.com/winnerineast/nifi-minifi-cpp): CPP version of Minifi.
@@ -267,6 +270,7 @@
 - [SiamRPN++ with PyTorch](https://github.com/winnerineast/SiamRPN_plus_plus_PyTorch): This is an unofficial PyTorch implementation of SiamRPN++ (CVPR2019), implemented by Peng Xu and Jin Feng. Our training can be conducted on multi-GPUs, and use LMDB data format to speed up the data loading.
 - [simpledet](https://github.com/winnerineast/simpledet):SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition.
 - [simple fasteer rcnn implementation in pytorch](https://github.com/winnerineast/simple-faster-rcnn-pytorch): A Simple and Fast Implementation of Faster R-CNN
+- [sort](https://github.com/winnerineast/sort):A simple online and realtime tracking algorithm for 2D multiple object tracking in video sequences.
 - [TorchCV](https://github.com/winnerineast/torchcv): A pyTorch-based framework for deep learning algorithms in computer vision.
 - [Track R-CNN](https://github.com/winnerineast/TrackR-CNN):Code for the TrackR-CNN baseline for the Multi Object Tracking and Segmentation (MOTS) task.
 - [votenet](https://github.com/winnerineast/votenet): Deep Hough Voting for 3D Object Detection in Point Clouds.
@@ -279,6 +283,7 @@
 - [cnn face landmark](https://github.com/winnerineast/cnn-facial-landmark):Facial landmark detection based on convolution neural network.
 - [Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition with pyTorch](https://github.com/winnerineast/cdp):Implementation of "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition" (CDP).
 - [face authentication in MPMC S4 project](https://github.com/winnerineast/face-authenication): a sample project.
+- [faced](https://github.com/winnerineast/faced): CPU (Near) Real Time face detection.
 - [Face Detection with DSFD](https://github.com/winnerineast/FaceDetection-DSFD): This paper is accepted by CVPR 2019. In this paper, we propose a novel face detection network, named DSFD, with superior performance over the state-of-the-art face detectors. You can use the code to evaluate our DSFD for face detection.
 - [face-detector-MTCNN](https://github.com/winnerineast/FaceDetector): pytorch implementation of inference and training stage of face detection algorithm described in: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks.
 - [FaceKit](https://github.com/winnerineast/FaceKit):Real-Time Rotation-Invariant Face Detection and Tracking (200FPS on CPU).
@@ -320,6 +325,7 @@
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
+#### 2019-12-10: pause at world models.
 #### 2019-12-05: pause at iFogSim.
 #### 2019-12-04: pause at Ghidra.
 #### 2019-12-03：pause at labelme.
