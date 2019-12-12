@@ -126,6 +126,7 @@
 ## <a name="DeepLearningPlatform">Deep Learning Platform</a>
 - [angel](https://github.com/winnerineast/angel):This project Angel is a high-performance distributed machine learning platform based on the philosophy of Parameter Server. It is tuned for performance with big data from Tencent and has a wide range of applicability and stability, demonstrating increasing advantage in handling higher dimension model. Angel is jointly developed by Tencent and Peking University, taking account of both high availability in industry and innovation in academia. Angel is developed with Java and Scala. It supports running on Yarn and Kubernetes. With the PS Service abstraction, it provides two modules, namely Spark on Angel and Pytorch on Angel separately, which enable integrate the power of Spark/PyTorch and Parameter Server for distributed training. Graph Computing and deep learning frameworks support is under development and will be released in the future.
 - [caffe from NVIDIA](https://github.com/winnerineast/NVIDIA-caffe): caffe + NVIDIA and no more comment.
+- [DIGITS](https://github.com/winnerineast/DIGITS):DIGITS (the Deep Learning GPU Training System) is a webapp for training deep learning models. The currently supported frameworks are: Caffe, Torch, and Tensorflow.
 - [keras](https://github.com/winnerineast/keras):Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
 - [keras-contrib](https://github.com/winnerineast/keras-contrib):Keras Community Contributions.
 - [keras-preprocessing](https://github.com/winnerineast/keras-preprocessing):Keras Preprocessing is the data preprocessing and data augmentation module of the Keras deep learning library. It provides utilities for working with image data, text data, and sequence data.
@@ -194,6 +195,7 @@
 - [Knowledge Graph Data](https://github.com/winnerineast/KnowledgeGraphData): So far the biggest chinese knowledge graphs data.
 
 ## <a name="ComputerVisionData">Computer Vision Data/Annotation Tools</a>
+- [ai-image-workflow](https://github.com/winnerineast/ai-image-workflow):auto label the classes.
 - [COCO](https://github.com/winnerineast/cocoapi):COCO data access API.
 - [labelme](https://github.com/winnerineast/labelme): Labelme is a graphical image annotation tool inspired by http://labelme.csail.mit.edu.
 - [labelmg](https://github.com/winnerineast/labelImg): LabelImg is a graphical image annotation tool. It is written in Python and uses Qt for its graphical interface.
@@ -215,6 +217,7 @@
 - [Micro RTSP](https://github.com/winnerineast/Micro-RTSP): A RTSP video server intended for very small CPUs(ESP32 etc).
 - [mmcv](https://github.com/winnerineast/mmcv): MMCV is a foundational python library for computer vision research and supports many research projects in MMLAB, such as MMDetection and MMAction.
 - [mmdetection](https://github.com/winnerineast/mmdetection): Open MMLab Detection Toolbox.
+- [multiple camera stream](https://github.com/winnerineast/multiple-camera-stream):Multiple CCTV/RTSP Streaming with Flask and Open-CV.
 - [opencv](https://github.com/winnerineast/opencv): Open Source Computer Vision Processing Libraries.
 - [opencv_contrib](https://github.com/winnerineast/opencv_contrib): OpenCV's extra modules.
 - [opencv dldt](https://github.com/winnerineast/dldt):Deep Learning Deployment Toolkit.
@@ -318,6 +321,8 @@
 - [spriteworld](https://github.com/winnerineast/spriteworld):Spriteworld: A Flexible, Configurable Reinforcement Learning Environment.
 - [StereoNet](https://github.com/winnerineast/StereoNet):Guided Hierarchical Refinement for Real-Time Edge-Aware Depth prediction model in pytorch. 
 - [Weight Agnostic Neural Networks](https://github.com/winnerineast/weightagnostic.github.io): Not all neural network architectures are created equal, some perform much better than others for certain tasks. But how important are the weight parameters of a neural network compared to its architecture? In this work, we question to what extent neural network architectures alone, without learning any weight parameters, can encode solutions for a given task. We propose a search method for neural network architectures that can already perform a task without any explicit weight training. To evaluate these networks, we populate the connections with a single shared weight parameter sampled from a uniform random distribution, and measure the expected performance. We demonstrate that our method can find minimal neural network architectures that can perform several reinforcement learning tasks without weight training. On supervised learning domain, we find architectures that can achieve much higher than chance accuracy on MNIST using random weights.
+- [world models for experiments](https://github.com/winnerineast/WorldModelsExperiments):Step by step instructions of reproducing World Models.
+- [world models for car racing and doom game](https://github.com/winnerineast/worldmodels.github.io):This repo contains the source for the interactive article "World Models".
 
 ## <a name="Needtofurtherprocesstheserepos">Need to further process these repos</a>
 - [deep learning 1](https://github.com/winnerineast/Deep-Learning-1)
@@ -325,6 +330,7 @@
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
+#### 2019-12-12：pause at dash.
 #### 2019-12-10: pause at world models.
 #### 2019-12-05: pause at iFogSim.
 #### 2019-12-04: pause at Ghidra.
