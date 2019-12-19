@@ -25,6 +25,7 @@
 
 
 ## <a name="AwesomeSeries">Awesome Series</a>
+- [Audio Visualization](https://github.com/winnerineast/awesome-audio-visualization):Music visualization, a feature found in electronic music visualizers and media player software, generates animated imagery based on a piece of music. The imagery is usually generated and rendered in real time and in a way synchronized with the music as it is played.
 - [C++](https://github.com/winnerineast/awesome-cpp):A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [Face Recognition](https://github.com/winnerineast/awesome-Face_Recognition):this collecting the papers (main from arxiv.org) about bellow themes: Face Detection;Face Alignment;Face Recognition && Face Identification && Face Verification && Face Representation; Face Attribute && Face Analysis; Face Reconstruction; Face Tracking; Face Clustering; Face Super-Resolution && Face Deblurring && Face Hallucination; Face Generation && Face Synthesis && Face Completion && Face Restoration && Face De-Occulusion; Face Transfer && Face Editing && Face Swapping; Face Anti-Spoofing; Face Retrival; Face Datasets.
 - [go](https://github.com/winnerineast/awesome-go):A curated list of awesome Go frameworks, libraries and software. Inspired by awesome-python.
@@ -34,6 +35,7 @@
 - [PHP](https://github.com/winnerineast/awesome-php): A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [Python](https://github.com/winnerineast/awesome-python):A curated list of awesome Python frameworks, libraries, software and resources.
 - [Python String](https://github.com/winnerineast/big-list-of-naughty-strings):The Big List of Naughty Strings is an evolving list of strings which have a high probability of causing issues when used as user-input data. This is intended for use in helping both automated and manual QA testing; useful for whenever your QA engineer walks into a bar.
+- [Spring](https://github.com/winnerineast/SpringAll): A collection for Spring Boot, Spring Boot &Shiro, Spring Cloud and Spring Security.
 
 ## <a name="BasicSoftwareEngineering">Basic Software Engineering</a>
 - [30DaysMakeOS](https://github.com/winnerineast/30dayMakeOS):making a prototype OS.
@@ -83,10 +85,12 @@
 - [nifi](https://github.com/winnerineast/nifi): Apache NiFI is a IoT workflow builder.
 - [nifi-minifi-cpp](https://github.com/winnerineast/nifi-minifi-cpp): CPP version of Minifi.
 - [nifi-minifi-java](https://github.com/winnerineast/nifi-minifi): Java version of Minifi.
-- [Nodered](https://github.com/winnerineast/node-red): A visual tool for wiring the internet of things.
-- [openedge](https://github.com/winnerineast/openedge): a platform to provide open edge computing capability.
+- [Nodered](https://github.com/winnerineast/node-red): A visual tool for wiring the internet of things.- [openedge](https://github.com/winnerineast/openedge): a platform to provide open edge computing capability.
+- [Nodered - Extra nodes](https://github.com/winnerineast/node-red-nodes): A collection of nodes for Node-RED. 
+- [Nodered - Dashboard](https://github.com/winnerineast/node-red-dashboard): A dashboard UI for Node-RED.
 - [rCore](https://github.com/winnerineast/rCore): a IoT OS used for education.
 - [rt-thread](https://github.com/winnerineast/rt-thread):RT-Thread is an open source IoT operating system from China, which has strong scalability: from a tiny kernel running on a tiny core, for example ARM Cortex-M0, or Cortex-M3/4/7, to a rich feature system running on MIPS32, ARM Cortex-A8, ARM Cortex-A9 DualCore etc.
+- [sofa-bolt](https://github.com/winnerineast/sofa-bolt): a lightweight, easy to use and high performance remoting call framework based on netty.
 - [TDengine](https://github.com/winnerineast/TDengine):TDengine is an open-sourced big data platform under GNU AGPL v3.0, designed and optimized for the Internet of Things (IoT), Connected Cars, Industrial IoT, and IT Infrastructure and Application Monitoring. 
 - [Tengine](https://github.com/winnerineast/Tengine): Tengine, developed by OPEN AI LAB, is a lite, high-performance, and modular inference engine for embedded device.
 - [TencentOS-Tiny](https://github.com/winnerineast/TencentOS-tiny): Tecent IoT OS.
@@ -127,10 +131,12 @@
 ## <a name="MachineLearning">Machine Learning</a>
 - [Alink](https://github.com/winnerineast/Alink): Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform.
 - [autokeras](https://github.com/winnerineast/autokeras): Auto-Keras is an open source software library for automated machine learning (AutoML). 
+- [automl](https://github.com/winnerineast/auto_ml): Automated machine learning for production and analytics.
 - [auto sklearn](https://github.com/winnerineast/auto-sklearn):auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
 - [Invoice Process Automation](https://github.com/winnerineast/automation-repo): Process automation with Machine Learning.
 - [leecode](https://github.com/winnerineast/leetcode): Collection of Leecode websites.
 - [Machine Learning in Numpy](https://github.com/winnerineast/numpy-ml):Ever wish you had an inefficient but somewhat legible collection of machine learning algorithms implemented exclusively in numpy? No?
+- [TransMogrifAI](https://github.com/winnerineast/TransmogrifAI): TransmogrifAI (pronounced trăns-mŏgˈrə-fī) is an AutoML library written in Scala that runs on top of Spark. It was developed with a focus on accelerating machine learning developer productivity through machine learning automation, and an API that enforces compile-time type-safety, modularity, and reuse. Through automation, it achieves accuracies close to hand-tuned models with almost 100x reduction in time.
 - [xgboost](https://github.com/winnerineast/xgboost):XGBoost is an optimized distributed gradient boosting library designed to be highly efficient, flexible and portable. It implements machine learning algorithms under the Gradient Boosting framework. XGBoost provides a parallel tree boosting (also known as GBDT, GBM) that solve many data science problems in a fast and accurate way. The same code runs on major distributed environment (Hadoop, SGE, MPI) and can solve problems beyond billions of examples.
 
 ## <a name="MobileOSProgramming">Mobile OS Programming</a>
@@ -165,6 +171,7 @@
 - [tensorflow-examples](https://github.com/winnerineast/examples): Tensorflow examples from official website.
 - [tensorflow-graphics](https://github.com/winnerineast/graphics):The last few years have seen a rise in novel differentiable graphics layers which can be inserted in neural network architectures. From spatial transformers to differentiable graphics renderers, these new layers leverage the knowledge acquired over years of computer vision and graphics research to build new and more efficient network architectures. Explicitly modeling geometric priors and constraints into neural networks opens up the door to architectures that can be trained robustly, efficiently, and more importantly, in a self-supervised fashion.
 - [tensorflow-models](https://github.com/winnerineast/models): Models built with tensorflow.
+- [tensorflow-model-analysis](https://github.com/winnerineast/model-analysis): TensorFlow Model Analysis (TFMA) is a library for evaluating TensorFlow models. It allows users to evaluate their models on large amounts of data in a distributed manner, using the same metrics defined in their trainer. These metrics can be computed over different slices of data and visualized in Jupyter notebooks.
 - [tensorflow-serving](https://github.com/winnerineast/serving):TensorFlow Serving is a flexible, high-performance serving system for machine learning models, designed for production environments. It deals with the inference aspect of machine learning, taking models after training and managing their lifetimes, providing clients with versioned access via a high-performance, reference-counted lookup table. TensorFlow Serving provides out-of-the-box integration with TensorFlow models, but can be easily extended to serve other types of models and data.
 - [Tensor Network](https://github.com/winnerineast/TensorNetwork):A tensor network wrapper for TensorFlow, JAX, and Numpy.
 - [tensorflow-model-optimization](https://github.com/winnerineast/model-optimization) Algorithm optimization with tensorflow.
@@ -174,6 +181,7 @@
 - [BytePS](https://github.com/winnerineast/byteps):BytePS is a high performance and general distributed training framework. It supports TensorFlow, Keras, PyTorch, and MXNet, and can run on either TCP or RDMA network.
 - [mediapipe](https://github.com/winnerineast/mediapipe):MediaPipe is a framework for building multimodal (eg. video, audio, any time series data) applied ML pipelines. With MediaPipe, a perception pipeline can be built as a graph of modular components, including, for instance, inference models (e.g., TensorFlow, TFLite) and media processing functions.
 - [nccl](https://github.com/winnerineast/nccl): Optimized primitives for collective multi-GPU communications.
+- [Quantize CNN Model using PyTorch](https://github.com/winnerineast/QuantizeCNNModel): Implement Towards Effective Low-bitwidth Convolutional Neural Networks.
 - [tensor2tensor](https://github.com/winnerineast/tensor2tensor):T2T is a modular and extensible library and binaries for supervised learning with TensorFlow and with support for sequence tasks. It is actively used and maintained by researchers and engineers within the Google Brain team.
 - [Tensorflow/TensorRT on Jetson](https://github.com/winnerineast/tf_trt_models):TensorFlow/TensorRT Models on Jetson.
 - [TensorRT](https://github.com/winnerineast/TensorRT):This repository contains the Open Source Software (OSS) components of NVIDIA TensorRT. Included are the sources for TensorRT plugins and parsers (Caffe and ONNX), as well as sample applications demonstrating usage and capabilities of the TensorRT platform.
@@ -193,6 +201,7 @@
 
 ## <a name="NLPModels">NLP Models</a>
 - [BERT](https://github.com/winnerineast/bert): one of famouse NLP models.
+- [char rnn chinese](https://github.com/winnerineast/char-rnn-cn): the base model is to generate essay, poem or papers.
 - [Deep Code Search](https://github.com/winnerineast/deep-code-search):Code for the ICSE 2018 paper Deep Code Search.
 - [DeepLearningSmells](https://github.com/winnerineast/DeepLearningSmells):We have two objectives to carry out this research. The first objective is to explore the feasibility of applying deep learning models to detect smells without extensive feature engineering, just by feeding the source code elements in tokenized form. Another goal of the work is to investigate the possibility of applying transfer-learning in the context of deep learning models for smell detection by investigating transferability of results between programming languages.
 - [GPT-2](https://github.com/winnerineast/gpt-2):best NLP model we have.
@@ -204,6 +213,7 @@
 - [NLP4Han](https://github.com/winnerineast/nlp4han):a collection of Chinese NLP processing tools.
 - [Plato Research Dialogue System](https://github.com/winnerineast/plato-research-dialogue-system):The Plato Research Dialogue System is a flexible framework that can be used to create, train, and evaluate conversational AI agents in various environments. It supports interactions through speech, text, or dialogue acts and each conversational agent can interact with data, human users, or other conversational agents (in a multi-agent setting). Every component of every agent can be trained independently online or offline and Plato provides an easy way of wrapping around virtually any existing model, as long as Plato's interface is adhered to.
 - [pyTorch transformers](https://github.com/winnerineast/pytorch-transformers):PyTorch-Transformers (formerly known as pytorch-pretrained-bert) is a library of state-of-the-art pre-trained models for Natural Language Processing (NLP).
+- [texar](https://github.com/winnerineast/texar): Texar is an open-source toolkit based on Tensorflow, aiming to support a broad set of machine learning especially text generation tasks, such as machine translation, dialog, summarization, content manipulation, language modeling, and so on. Texar is designed for both researchers and practitioners for fast prototyping and experimentation.
 - [Tokenizer](https://github.com/winnerineast/tokenizer):Tokenize source code into integer vectors, symbols, or discrete tokens.
 - [transformaer xl chinese](https://github.com/winnerineast/transformer-xl-chinese): a good chinese text generator.
 
@@ -254,7 +264,9 @@
 - [openshot QT](https://github.com/winnerineast/openshot-qt):OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world.
 - [RealSense SDK](https://github.com/winnerineast/librealsense): Intel® RealSense™ SDK 2.0 is a cross-platform library for Intel® RealSense™ depth cameras (D400 series and the SR300).
 - [RTSP All The Thing](https://github.com/winnerineast/RTSPAllTheThings):A multipurpose RTSP media server that can simulate RTSP cameras, broadcast RTSP streams, webcams and even create test videos or serve video files.
+- [RTSP FFMPEG](https://github.com/winnerineast/rtsp-ffmpeg): Lazy Node.js FFMpeg wrapper for streaming RTSP into MotionJPEG. It runs FFMpeg process only when someone is subscribed to its data event. Every data event contains one image Buffer object.
 - [RTSP Server](https://github.com/winnerineast/RtspServer): A RTSP server and pusher based on C++11.
+- [RTSP Video Server](https://github.com/winnerineast/rtsp-video-server): This project includes video capturing using FFmpeg (Video4Linux ver. 2 as a backend), pre-processing (resampling and framerate control) functionality. Live555 Framework based video server is implemented for unicast video transmision using an RTSP. Code is written in C++ programming language.
 - [taichi](https://github.com/winnerineast/taichi):Taichi is an open-source computer graphics library that aims to provide easy-to-use infrastructures for computer graphics R&D. It's written in C++14 and wrapped friendly with Python.
 - [v4l2 rtsp server](https://github.com/winnerineast/v4l2rtspserver):RTSP Server for V4L2 device capture supporting HEVC/H264/JPEG/VP8/VP9.
 - [videoflow](https://github.com/winnerineast/videoflow): Videoflow is a Python framework for video stream processing. The library is designed to facilitate easy and quick definition of computer vision stream processing applications. It empowers developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code. It contains off-the-shelf components for object detection, object tracking, human pose estimation, etc, and it is easy to extend with your own.
@@ -262,6 +274,7 @@
 - [vidgear](https://github.com/winnerineast/vidgear): VidGear provides a high-level All-in-One Video Processing framework build on top of OpenCV, PiCamera and FFmpeg. It's compact, simple to use and easy to extend.
 - [vlc](https://github.com/winnerineast/vlc):VLC is a popular libre and open source media player and multimedia engine, used by a large number of individuals, professionals, companies and institutions.
 - [vlfeat](https://github.com/winnerineast/vlfeat):The VLFeat open source library implements popular computer vision algorithms specialising in image understanding and local featurexs extraction and matching. Algorithms incldue Fisher Vector, VLAD, SIFT, MSER, k-means, hierarchical k-means, agglomerative information bottleneck, SLIC superpixes, quick shift superpixels, large scale SVM training, and many others. It is written in C for efficiency and compatibility, with interfaces in MATLAB for ease of use, and detailed documentation throughout. It supports Windows, Mac OS X, and Linux.
+- [vue html5 video player](https://github.com/winnerineast/vue-video-1): A HTML5 video player component for Vue.js.
 - [webrtc samples](https://github.com/winnerineast/samples):This is a repository for the WebRTC JavaScript code samples. All of the samples can be tested from webrtc.github.io/samples.
 - [youtube-dl](https://github.com/winnerineast/youtube-dl):youtube-dl - download videos from youtube.com or other video platforms.
 - [ZLMediaKit](https://github.com/winnerineast/ZLMediaKit): A lightweight ,high performance and stable stream server and client framework based on C++11.
@@ -274,6 +287,7 @@
 - [C3D-keras](https://github.com/winnerineast/C3D-keras):train c3d with keras.
 - [curve GCN](https://github.com/winnerineast/curve-gcn):This is the official PyTorch implementation of Curve-GCN (CVPR 2019). This repository allows you to train new Curve-GCN models.
 - [darknet](https://github.com/winnerineast/darknet):Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
+- [Deep Occulusion](https://github.com/winnerineast/DeepOcclusion): Deep Occlusion Reasoning for Multi-Camera Multi-Target Detection.
 - [Densebody](https://github.com/winnerineast/densebody_pytorch): PyTorch implementation of CloudWalk's recent paper DenseBody from images to 3D models.
 - [detectron](https://github.com/winnerineast/Detectron) version 1 fyi merely when we have version 2.
 - [detectron2](https://github.com/winnerineast/detectron2):Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms. It is a ground-up rewrite of the previous version, Detectron, and it originates from maskrcnn-benchmark.
@@ -285,6 +299,7 @@
 - [human pose estimation with pytorch](https://github.com/winnerineast/human-pose-estimation.pytorch): Simple Baselines for Human Pose Estimation and Tracking.
 - [Image Duplication Detection](https://github.com/winnerineast/imagededup):imagededup is a python package that simplifies the task of finding exact and near duplicates in an image collection.
 - [Image Segmentation with Keras](https://github.com/winnerineast/image-segmentation-keras):Implementation of various Deep Image Segmentation models in keras.
+- [Image AI](https://github.com/winnerineast/ImageAI):A python library built to empower developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple and few lines of code.
 - [MedicalNet](https://github.com/winnerineast/MedicalNet):This repository contains a Pytorch implementation of Med3D: Transfer Learning for 3D Medical Image Analysis. Many studies have shown that the performance on deep learning is significantly affected by volume of training data. The MedicalNet project aggregated the dataset with diverse modalities, target organs, and pathologies to to build relatively large datasets. Based on this dataset, a series of 3D-ResNet pre-trained models and corresponding transfer-learning training code are provided.
 - [MMSR](https://github.com/winnerineast/mmsr): MMSR is an open source image and video super-resolution toolbox based on PyTorch. It is a part of the open-mmlab project developed by Multimedia Laboratory, CUHK. MMSR is based on our previous projects: BasicSR, ESRGAN, and EDVR.
 - [Mobilenet collection](https://github.com/winnerineast/mobilenets): a collection of various mobilenets.
@@ -301,6 +316,7 @@
 - [NAS-FPN-Tensorflow](https://github.com/winnerineast/NAS_FPN_Tensorflow):Learning Scalable Feature Pyramid Architecture for Object Detection with Tensorflow.
 - [object tracking toolkit](https://github.com/winnerineast/toolkit):This repository contains the official python toolkit for running experiments and evaluate performance on GOT-10k benchmark. The code is written in pure python and is compile-free. Although we support both python2 and python3, we recommend python3 for better performance.
 - [OpenPose](https://github.com/winnerineast/openpose):OpenPose represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.
+- [OpenPose_Android](https://github.com/winnerineast/Android-OpenPose): It's based on OpenPose(CMU) and tracking algorithm. To speed up, i tried tensorflow-mobile, but the accuracy and speed is not acceptable. And HuaWei's NPU is not friendly to deverlopers. Fortunately, snpe-1.6.0 surport caffe CNN models, so i just convert CMU's original model to a smaller snpe model(160*160).
 - [OpenPose Training Code](https://github.com/winnerineast/openpose_train): OpenPose training codes.
 - [OpenPost Unity Plugin](https://github.com/winnerineast/openpose_unity_plugin):OpenPose Unity Plugin is a wrapper of the OpenPose library for Unity users. It provides formatted OpenPose output and some examples. OpenPose is a real-time multi-person system able to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images.
 - [OpenPose Plus](https://github.com/winnerineast/openpose-plus): High-Performance and Flexible Pose Estimation Framework using TensorFlow, OpenPose and TensorRT.
@@ -335,11 +351,13 @@
 - [face recognition framework](https://github.com/winnerineast/face_recognition_framework): This is a face recognition framework based on PyTorch with convenient training, evaluation and feature extraction functions. It is originally a multi-task face recognition framework for our accpeted ECCV 2018 paper, "Consensus-Driven Propagation in Massive Unlabeled Data for Face Recognition". However, it is also a common framework for face recognition. You can freely customize your experiments with your data and configurations with it.
 - [FaceSwap in PyTorch](https://github.com/winnerineast/Faceswap-Deepfake-Pytorch): Deepfakes_Faceswap using pytorch JUST FOR STUDY AND RESEARCH.
 - [FRCore](https://github.com/winnerineast/FRCore):this is to show the capability of FR.
+- [Hyper Face Landmark](https://github.com/winnerineast/HyperLandmark): 106 keypoint face landmark algorithm + android application for live-ness detection.
 - [insightface](https://github.com/winnerineast/insightface): Face Analysis Project on MXNet.
 - [libfacedetection](https://github.com/winnerineast/libfacedetection): This is an open source library for CNN-based face detection in images. The CNN model has been converted to static variables in C source files. The source code does not depend on any other libraries. What you need is just a C++ compiler. You can compile the source code under Windows, Linux, ARM and any platform with a C++ compiler.
 - [Menpo BenchMark](https://github.com/winnerineast/MenpoBenchmark): Multi-pose 2D and 3D Face Alignment and Tracking.
 - [MobileFace](https://github.com/winnerineast/MobileFace):A face recognition solution on mobile device.
 - [SeetaFace2](https://github.com/winnerineast/SeetaFace2): a set of FRS including face detector, face landmarker, face recognizer.
+- [SeetaFace2 Engine](https://github.com/winnerineast/SeetaFaceEngine2): SeetaFace2 Engine contains three key parts, i.e., SeetaFace2 Detection, SeetaFace2 Alignment and SeetaFace2 Identification. It can run in Android OS, Windows and Linux.
 - [SSH](https://github.com/winnerineast/SSH):This repository includes the code for training and evaluating the SSH face detector introduced in our ICCV 2017 paper.
 - [Ultra Light Fast Generic Face Detector with 1MB size](https://github.com/winnerineast/Ultra-Light-Fast-Generic-Face-Detector-1MB):no doubt it's a small and good model for face detection.
 
@@ -361,17 +379,19 @@
 - [open spiel](https://github.com/winnerineast/open_spiel):OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games. 
 - [spriteworld](https://github.com/winnerineast/spriteworld):Spriteworld: A Flexible, Configurable Reinforcement Learning Environment.
 - [StereoNet](https://github.com/winnerineast/StereoNet):Guided Hierarchical Refinement for Real-Time Edge-Aware Depth prediction model in pytorch. 
+- [TRFL](https://github.com/winnerineast/trfl): TRFL (pronounced "truffle") is a library built on top of TensorFlow that exposes several useful building blocks for implementing Reinforcement Learning agents.
 - [Weight Agnostic Neural Networks](https://github.com/winnerineast/weightagnostic.github.io): Not all neural network architectures are created equal, some perform much better than others for certain tasks. But how important are the weight parameters of a neural network compared to its architecture? In this work, we question to what extent neural network architectures alone, without learning any weight parameters, can encode solutions for a given task. We propose a search method for neural network architectures that can already perform a task without any explicit weight training. To evaluate these networks, we populate the connections with a single shared weight parameter sampled from a uniform random distribution, and measure the expected performance. We demonstrate that our method can find minimal neural network architectures that can perform several reinforcement learning tasks without weight training. On supervised learning domain, we find architectures that can achieve much higher than chance accuracy on MNIST using random weights.
 - [world models for experiments](https://github.com/winnerineast/WorldModelsExperiments):Step by step instructions of reproducing World Models.
 - [world models for car racing and doom game](https://github.com/winnerineast/worldmodels.github.io):This repo contains the source for the interactive article "World Models".
 
 ## <a name="Needtofurtherprocesstheserepos">Need to further process these repos</a>
 - [deep learning 1](https://github.com/winnerineast/Deep-Learning-1)
+- [many algorithm implemented in Java](https://github.com/winnerineast/Java): all algorithm implemented in Java.
 - [paper collections and codes](https://github.com/winnerineast/handong1587.github.io)
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
-#### 2019-12-19： pause at lottery-ticket-hypothesis.
+#### 2019-12-19： pause at dopamine.
 #### 2019-12-18: pause at zetta.
 #### 2019-12-12：pause at dash.
 #### 2019-12-10: pause at world models.
