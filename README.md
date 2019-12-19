@@ -27,11 +27,13 @@
 ## <a name="AwesomeSeries">Awesome Series</a>
 - [C++](https://github.com/winnerineast/awesome-cpp):A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [Face Recognition](https://github.com/winnerineast/awesome-Face_Recognition):this collecting the papers (main from arxiv.org) about bellow themes: Face Detection;Face Alignment;Face Recognition && Face Identification && Face Verification && Face Representation; Face Attribute && Face Analysis; Face Reconstruction; Face Tracking; Face Clustering; Face Super-Resolution && Face Deblurring && Face Hallucination; Face Generation && Face Synthesis && Face Completion && Face Restoration && Face De-Occulusion; Face Transfer && Face Editing && Face Swapping; Face Anti-Spoofing; Face Retrival; Face Datasets.
+- [go](https://github.com/winnerineast/awesome-go):A curated list of awesome Go frameworks, libraries and software. Inspired by awesome-python.
 - [Microservices](https://github.com/winnerineast/awesome-microservices):A curated list of Microservice Architecture related principles and technologies. 
 - [Ma Nong Weekly](https://github.com/winnerineast/weekly.manong.io): a weekly magzine for codings.
 - [Object Detection](https://github.com/winnerineast/awesome-object-detection):This is a list of awesome articles about object detection.
 - [PHP](https://github.com/winnerineast/awesome-php): A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [Python](https://github.com/winnerineast/awesome-python):A curated list of awesome Python frameworks, libraries, software and resources.
+- [Python String](https://github.com/winnerineast/big-list-of-naughty-strings):The Big List of Naughty Strings is an evolving list of strings which have a high probability of causing issues when used as user-input data. This is intended for use in helping both automated and manual QA testing; useful for whenever your QA engineer walks into a bar.
 
 ## <a name="BasicSoftwareEngineering">Basic Software Engineering</a>
 - [30DaysMakeOS](https://github.com/winnerineast/30dayMakeOS):making a prototype OS.
@@ -69,22 +71,27 @@
 ## <a name="IoT">IoT</a>
 - [AoE](https://github.com/winnerineast/AoE): it's an IRE for IoT.
 - [Build OpenCV on Jetson TX2](https://github.com/winnerineast/buildOpenCVTX2): Build and install OpenCV for the NVIDIA Jetson TX2.
+- [cayley](https://github.com/winnerineast/cayley): 
 - [ClickHouse](https://github.com/winnerineast/ClickHouse);a free analytic DBMS for big data.
 - [gear lib](https://github.com/winnerineast/gear-lib): a collection of basic libraries for IoT.
+- [gobot](https://github.com/winnerineast/gobot):Gobot (http://gobot.io/) is a framework using the Go programming language (http://golang.org/) for robotics, physical computing, and the Internet of Things.
 - [iFogSim](https://github.com/winnerineast/iFogSim):A Toolkit for Modeling and Simulation of Resource Management Techniques in Internet of Things, Edge and Fog Computing Environments.
 - [iFogSim Tutorial](https://github.com/winnerineast/iFogSimTutorials): the tutorial of iFogSim.
 - [jetson inference](https://github.com/winnerineast/jetson-inference): This repo uses NVIDIA TensorRT for efficiently deploying neural networks onto the embedded platform, improving performance and power efficiency using graph optimizations, kernel fusion, and half-precision FP16 on the Jetson.
+- [jetson_utilities](https://github.com/winnerineast/jetsonUtilities): This repository holds utilities for working with NVIDIA Jetson Development Kit.
 - [k3s](https://github.com/winnerineast/k3s): a lightweight k8s for IoT.
 - [nifi](https://github.com/winnerineast/nifi): Apache NiFI is a IoT workflow builder.
 - [nifi-minifi-cpp](https://github.com/winnerineast/nifi-minifi-cpp): CPP version of Minifi.
 - [nifi-minifi-java](https://github.com/winnerineast/nifi-minifi): Java version of Minifi.
 - [Nodered](https://github.com/winnerineast/node-red): A visual tool for wiring the internet of things.
+- [openedge](https://github.com/winnerineast/openedge): a platform to provide open edge computing capability.
 - [rCore](https://github.com/winnerineast/rCore): a IoT OS used for education.
 - [rt-thread](https://github.com/winnerineast/rt-thread):RT-Thread is an open source IoT operating system from China, which has strong scalability: from a tiny kernel running on a tiny core, for example ARM Cortex-M0, or Cortex-M3/4/7, to a rich feature system running on MIPS32, ARM Cortex-A8, ARM Cortex-A9 DualCore etc.
 - [TDengine](https://github.com/winnerineast/TDengine):TDengine is an open-sourced big data platform under GNU AGPL v3.0, designed and optimized for the Internet of Things (IoT), Connected Cars, Industrial IoT, and IT Infrastructure and Application Monitoring. 
 - [Tengine](https://github.com/winnerineast/Tengine): Tengine, developed by OPEN AI LAB, is a lite, high-performance, and modular inference engine for embedded device.
 - [TencentOS-Tiny](https://github.com/winnerineast/TencentOS-tiny): Tecent IoT OS.
 - [Tensorflow nvJetson](https://github.com/winnerineast/tensorflow-nvJetson):TensorFlow for Nvidia Jetson TX1/TX2.
+- [zetta](https://github.com/winnerineast/zetta):Zetta is an open source, API-first, Node.js-based platform for the Internet of Things. To learn more about Zetta now, jump to Introduction to Zetta on the Zetta doc wiki.
 
 ## <a name="VisualizationTools">Visualization Tools</a>
 - [AdminLTE](https://github.com/winnerineast/AdminLTE):AdminLTE -- is a fully responsive admin template. Based on Bootstrap 3 & 4 framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. 
@@ -176,6 +183,7 @@
 - [deep learning models](https://github.com/winnerineast/deeplearning-models):A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks.
 - [Google Research](https://github.com/winnerineast/google-research):This repository contains code released by Google AI Research.
 - [keras applications](https://github.com/winnerineast/keras-applications):Keras Applications is the applications module of the Keras deep learning library. It provides model definitions and pre-trained weights for a number of popular archictures, such as VGG16, ResNet50, Xception, MobileNet, and more.
+- [lottery ticket hypothesis](https://github.com/winnerineast/lottery-ticket-hypothesis):This library reimplements and extends the work of Frankle and Carbin in "The Lottery Ticket Hypothesis: Finding Small, Trainable Neural Networks" (https://arxiv.org/abs/1803.03635). Their paper aims to explore why we find large, overparameterized networks easier to train than the smaller networks we can find by pruning or distilling. Their answer is the lottery ticket hypothesis: Any large network that trains successfully contains a subnetwork that is initialized such that - when trained in isolation - it can match the accuracy of the original network in at most the same number of training iterations.
 - [morph net](https://github.com/winnerineast/morph-net):MorphNet is a method for learning deep network structure during training. The key principle is continuous relaxation of the network-structure learning problem. Specifically, activation sparsity is induced by adding regularizers that target the consumption of specific resources such as FLOPs or model size. When the regularizer loss is added to the training loss and their sum is minimized via stochastic gradient descent or a similar optimizer, the learning problem becomes a constrained optimization of the structure of the network, under the constraint represented by the regularizer. The method was first introduced in our CVPR 2018, paper "MorphNet: Fast & Simple Resource-Constrained Learning of Deep Network Structure". A overview of the approach as well as new device-specific latency regularizers were prestend in GTC 2019.
 - [pysot](https://github.com/winnerineast/pysot):PySOT is a software system designed by SenseTime Video Intelligence Research team. It implements state-of-the-art single object tracking algorithms, including SiamRPN and SiamMask. It is written in Python and powered by the PyTorch deep learning framework. This project also contains a Python port of toolkit for evaluating trackers.
 - [pythia](https://github.com/winnerineast/pythia):Pythia is a modular framework for vision and language multimodal research. Built on top of PyTorch.
@@ -227,6 +235,7 @@
 - [Easy RTSP Server](https://github.com/winnerineast/EasyIPCamera): a RTSP server to support multiple platform including windows, Linux, Android and others.
 - [FFmpeg](https://github.com/winnerineast/FFmpeg):FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 - [flydra](https://github.com/winnerineast/flydra):Flydra is a markerless, multi-camera tracking system capable of tracking the three-dimensional position and body orientation of animals such as flies and birds. The system operates with less than 40 ms latency and can track multiple animals simultaneously. Fundamentally, the multi-target tracking algorithm is based on an extended Kalman filter and the nearest neighbour standard filter data association algorithm.
+- [gst-rtsp-server](https://github.com/winnerineast/gst-rtsp-server): gst-rtsp-server is a library on top of GStreamer for building an RTSP server. There are some examples in the examples/ directory and more comprehensive documentation in docs/README.
 - [ImagePy](https://github.com/winnerineast/imagepy):ImagePy is an open source image processing framework written in Python. Its UI interface, image data structure and table data structure are wxpython-based, Numpy-based and pandas-based respectively. Furthermore, it supports any plug-in based on Numpy and pandas, which can talk easily between scipy.ndimage, scikit-image, simpleitk, opencv and other image processing libraries.
 - [IP Camera Simulator](https://github.com/winnerineast/IP-Camera-Emulator):IP Camera Emulator - A Windows .NET app that emulates one or more RTSP video cameras.
 - [kurento-rtsp2webrtc](https://github.com/winnerineast/kurento-rtsp2webrtc):This project is a simple example showing how to tranform a RTSP URI or an HTTP video URI feeds into a WebRTC stream.
@@ -362,6 +371,7 @@
 - [Multiple Object Tracking Paper List](https://github.com/winnerineast/multi-object-tracking-paper-list)
 
 # work daily
+#### 2019-12-19： pause at lottery-ticket-hypothesis.
 #### 2019-12-18: pause at zetta.
 #### 2019-12-12：pause at dash.
 #### 2019-12-10: pause at world models.
