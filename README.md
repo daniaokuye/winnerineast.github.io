@@ -1,4 +1,6 @@
-# Papers and Codes List
+# Raw Codes List
+## A Chinese saying:"you can write a poem easily when you've read thousands of them.". Similarily, for codings.
+# Index
 - [Audio Processing](##AudioProcessing)
 - [Awesome Series](#AwesomeSeries)
 - [Basic Software Engineering](#BasicSoftwareEngineering)
