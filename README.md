@@ -88,7 +88,7 @@
 - [iFogSim Tutorial](https://github.com/winnerineast/iFogSimTutorials): the tutorial of iFogSim.
 - [jetson inference](https://github.com/winnerineast/jetson-inference): This repo uses NVIDIA TensorRT for efficiently deploying neural networks onto the embedded platform, improving performance and power efficiency using graph optimizations, kernel fusion, and half-precision FP16 on the Jetson.
 - [jetson_utilities](https://github.com/winnerineast/jetsonUtilities): This repository holds utilities for working with NVIDIA Jetson Development Kit.
-- [k3s](https://github.com/winnerineast/k3s): a lightweight k8s for IoT.
+- [k3s](https://github.com/winnerineast/k3s): a lightweight k8s for IoT. And good to go.
 - [nifi](https://github.com/winnerineast/nifi): Apache NiFI is a IoT workflow builder.
 - [nifi-minifi-cpp](https://github.com/winnerineast/nifi-minifi-cpp): CPP version of Minifi.
 - [nifi-minifi-java](https://github.com/winnerineast/nifi-minifi): Java version of Minifi.
